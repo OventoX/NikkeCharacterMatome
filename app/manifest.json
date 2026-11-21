@@ -1,0 +1,17 @@
+{
+  "name": "NIKKE キャラまとめ表",
+  "short_name": "NIKKEまとめ",
+  "description": "『勝利の女神：NIKKE』のプレイアブルキャラクター（SSR・SR・R）データ・スキル・コスチューム画像をまとめた個人用データベース",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0a0c10",
+  "theme_color": "#141820",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220%200%20100%20100%22><rect width=%22100%22 height=%22100%22 rx=%2218%22 fill=%22%230a0c10%22/><polygon points=%2250,14 84,32 84,68 50,86 16,68 16,32%22 fill=%22none%22 stroke=%22%23ff5a1f%22 stroke-width=%224%22/><circle cx=%2250%22 cy=%2250%22 r=%2214%22 fill=%22none%22 stroke=%22%23f8fafc%22 stroke-width=%224%22/><path d=%22M50 24v12M50 64v12M24 50h12M64 50h12%22 stroke=%22%23ff5a1f%22 stroke-width=%224%22 stroke-linecap=%22round%22/></svg>",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

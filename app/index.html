@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NIKKE キャラまとめ表</title>
+  <meta name="description" content="『勝利の女神：NIKKE』のプレイアブルキャラクター（SSR・SR・R）データ・スキル・コスチューム画像まとめ">
+  <meta name="theme-color" content="#141820">
+  <link rel="manifest" href="manifest.json">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700;900&family=Rajdhani:wght@600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="tactical-header">
+    <div class="header-inner">
+      <div class="brand">
+        <svg class="brand-emblem" viewBox="0 0 64 64" width="44" height="44" aria-hidden="true">
+          <polygon points="32,4 58,18 58,46 32,60 6,46 6,18" fill="#12161f" stroke="#ff5a1f" stroke-width="2.2"/>
+          <circle cx="32" cy="32" r="14" fill="none" stroke="#f8fafc" stroke-width="1.8" stroke-dasharray="4 3"/>
+          <circle cx="32" cy="32" r="4" fill="#ff3b30"/>
+          <path d="M32 10v10M32 44v10M10 32h10M44 32h10" stroke="#ff5a1f" stroke-width="2.4" stroke-linecap="round"/>
+        </svg>
+        <div>
+          <h1 class="brand-title">NIKKE キャラまとめ表</h1>
+          <p class="brand-sub">GODDESS OF VICTORY: NIKKE — CHARACTER ARCHIVE</p>
+        </div>
+      </div>
+      <div class="header-stats">
+        <span class="stat-pill" id="totalCountPill">収録: -- 体</span>
+        <span class="stat-pill stat-pill-accent" id="favCountPill">お気に入り: 0</span>
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="controls-panel" aria-label="検索・フィルター">
+      <div class="search-row">
+        <div class="search-box">
+          <svg class="search-icon" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true">
+            <circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="2"/>
+            <path d="M20 20l-3.5-3.5" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+          </svg>
+          <input type="search" id="searchInput" placeholder="キャラ名（日本語 / 英語）・部隊名で検索..." autocomplete="off">
+        </div>
+        <button type="button" id="favFilterBtn" class="btn-toggle" aria-pressed="false">
+          <span class="star-icon">★</span> お気に入りのみ
+        </button>
+        <button type="button" id="resetBtn" class="btn-secondary">条件リセット</button>
+      </div>
+
+      <div class="filter-row">
+        <label class="filter-group">
+          <span>レアリティ</span>
+          <select id="rarityFilter">
+            <option value="ALL">すべて</option>
+            <option value="SSR">SSR</option>
+            <option value="SR">SR</option>
+            <option value="R">R</option>
+          </select>
+        </label>
+
+        <label class="filter-group">
+          <span>企業</span>
+          <select id="manufacturerFilter">
+            <option value="ALL">すべて</option>
+            <option value="エリシオン">エリシオン</option>
+            <option value="ミシリス">ミシリス</option>
+            <option value="テトラ">テトラ</option>
+            <option value="ピルグリム">ピルグリム</option>
+            <option value="アブノーマル">アブノーマル</option>
+          </select>
+        </label>
+
+        <label class="filter-group">
+          <span>武器種</span>
+          <select id="weaponFilter">
+            <option value="ALL">すべて</option>
+            <option value="AR">AR (アサルトライフル)</option>
+            <option value="SMG">SMG (サブマシンガン)</option>
+            <option value="SG">SG (ショットガン)</option>
+            <option value="SR">SR (スナイパーライフル)</option>
+            <option value="RL">RL (ロケットランチャー)</option>
+            <option value="MG">MG (マシンガン)</option>
+          </select>
+        </label>
+
+        <label class="filter-group">
+          <span>バースト</span>
+          <select id="burstFilter">
+            <option value="ALL">すべて</option>
+            <option value="I">バースト I</option>
+            <option value="II">バースト II</option>
+            <option value="III">バースト III</option>
+          </select>
+        </label>
+
+        <label class="filter-group">
+          <span>属性</span>
+          <select id="elementFilter">
+            <option value="ALL">すべて</option>
+            <option value="灼熱">灼熱</option>
+            <option value="水冷">水冷</option>
+            <option value="風圧">風圧</option>
+            <option value="電撃">電撃</option>
+            <option value="鉄甲">鉄甲</option>
+          </select>
+        </label>
+
+        <label class="filter-group">
+          <span>クラス</span>
+          <select id="roleFilter">
+            <option value="ALL">すべて</option>
+            <option value="火力">火力</option>
+            <option value="防御">防御</option>
+            <option value="支援">支援</option>
+          </select>
+        </label>
+
+        <label class="filter-group">
+          <span>並び順</span>
+          <select id="sortSelect">
+            <option value="rarity-desc">レアリティ順 (SSR → R)</option>
+            <option value="name-asc">名前順 (あ〜ん / A-Z)</option>
+            <option value="id-asc">ID 昇順</option>
+          </select>
+        </label>
+      </div>
+
+      <div class="result-bar">
+        <span id="resultCountText">0 体を表示中</span>
+      </div>
+    </section>
+
+    <section id="charGrid" class="char-grid" aria-live="polite"></section>
+    <div id="loadMoreWrap" class="load-more-wrap hidden">
+      <button type="button" id="loadMoreBtn" class="btn-load-more">もっと表示</button>
+    </div>
+    <div id="emptyState" class="empty-state hidden">
+      <p>条件に一致するキャラクターが見つかりませんでした。</p>
+    </div>
+  </main>
+
+  <footer class="tactical-footer">
+    <p>個人用 NIKKE キャラクターデータベース（静的サイト / オフライン対応）</p>
+    <p class="footer-note">出典：<a href="https://game8.jp/nikke/491924" target="_blank" rel="noopener noreferrer">Game8 NIKKE攻略Wiki</a> / <a href="https://nikke-goddess-of-victory-international.fandom.com/wiki/Category:Playable_characters" target="_blank" rel="noopener noreferrer">NIKKE Wiki (Fandom)</a></p>
+  </footer>
+
+  <!-- 詳細モーダル -->
+  <div id="detailModal" class="modal hidden" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+    <div class="modal-backdrop" id="modalBackdrop"></div>
+    <div class="modal-dialog">
+      <button type="button" class="modal-close" id="modalCloseBtn" aria-label="閉じる">&times;</button>
+      <div class="modal-body" id="modalBody"></div>
+    </div>
+  </div>
+
+  <!-- 画像拡大ライトボックス -->
+  <div id="lightbox" class="lightbox hidden" role="dialog" aria-modal="true" aria-label="画像拡大表示">
+    <button type="button" class="lightbox-close" id="lightboxCloseBtn" aria-label="拡大を閉じる">&times;</button>
+    <div id="lightboxStage" class="lightbox-stage">
+      <button type="button" class="lightbox-img-nav lightbox-img-prev" id="lightboxPrevImgBtn" aria-label="前の画像">&#8249;</button>
+      <img id="lightboxImg" src="" alt="" draggable="false">
+      <button type="button" class="lightbox-img-nav lightbox-img-next" id="lightboxNextImgBtn" aria-label="次の画像">&#8250;</button>
+    </div>
+    <div class="lightbox-footer">
+      <button type="button" class="lightbox-char-nav" id="lightboxPrevCharBtn" aria-label="前のキャラ">&laquo; 前のキャラ</button>
+      <p id="lightboxCaption" class="lightbox-caption"></p>
+      <button type="button" class="lightbox-char-nav" id="lightboxNextCharBtn" aria-label="次のキャラ">次のキャラ &raquo;</button>
+    </div>
+  </div>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

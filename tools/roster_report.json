@@ -1,0 +1,20 @@
+{
+  "date": "2026-11-22",
+  "total": 210,
+  "byRarity": {
+    "SSR": 179,
+    "SR": 20,
+    "R": 11
+  },
+  "totalImages": 398,
+  "missingImagesChars": [],
+  "excludedFromFandom": [
+    "Marian",
+    "Mekami Shifty"
+  ],
+  "emptyFields": {
+    "cv": 1,
+    "squad": 3,
+    "skills": 0
+  }
+}
