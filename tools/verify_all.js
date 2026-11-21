@@ -104,11 +104,22 @@ chars.forEach((c, idx) => {
     errors.push(`${prefix} images is empty (0 images)`);
   } else {
     totalImages += c.images.length;
+    const labels = new Set();
     c.images.forEach((img, iIdx) => {
       if (!img.label || !img.url || !img.source || !img.credit) {
         errors.push(`${prefix} Image[${iIdx}] missing required metadata (label/url/source/credit)`);
+      } else {
+        labels.add(img.label);
+        if (/(?:^|\b|_)sd(?:_|\b|\.)|chibi/i.test(img.label) || /_SD\.|chibi/i.test(img.url)) {
+          errors.push(`${prefix} Image[${iIdx}] appears to be SD image: "${img.label}"`);
+        }
       }
     });
+    for (const reqLabel of ['立ち絵', '射撃待機', '射撃中']) {
+      if (!labels.has(reqLabel)) {
+        errors.push(`${prefix} Missing required pose image: ${reqLabel}`);
+      }
+    }
   }
 
   if (!c.cv) emptyCounts.cv += 1;

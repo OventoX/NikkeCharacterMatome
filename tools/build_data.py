@@ -13,6 +13,7 @@ import json
 import os
 import re
 import time
+import urllib.parse
 from pathlib import Path
 from typing import Dict, List, Optional, Tuple
 
@@ -312,11 +313,22 @@ def parse_game8_detail(item: dict, refresh: bool = False) -> dict:
                         })
             sib = sib.find_next_sibling()
 
+    # Extract 立ち絵 from Game8 if available
+    tachie_url = ""
+    for img in soup.find_all("img"):
+        alt = img.get("alt", "")
+        if "立ち絵" in alt:
+            u = img.get("data-src") or img.get("src") or ""
+            if u.startswith("http"):
+                tachie_url = u
+                break
+
     return {
         "name": official_name,
         "cv": cv,
         "burst": burst_detail,
         "skills": skills,
+        "tachie_url": tachie_url,
     }
 
 
@@ -396,68 +408,79 @@ def resolve_image_urls(file_titles: List[str], refresh: bool = False) -> Dict[st
     return url_map
 
 
-def select_character_fb_files(title: str, all_imgs: List[str]) -> List[Tuple[str, str]]:
+def select_character_pose_and_costume_files(title: str, all_imgs: List[str]) -> List[Tuple[str, str]]:
     """
-    Return list of (label, filename) for full-body illustrations of this character.
+    Return list of (label, filename) for:
+      - 立ち絵 (*_FB.*)
+      - 射撃待機 (*_cover_idle.*)
+      - 射撃中 (*_aim_idle_combat.*)
+      - コスチューム：<name> (*_(<name>)_FB.*)
+    Excludes SD/chibi/MI/icon files.
     """
     base = title.replace(" ", "_").replace(":", "")
     base_colon = title.replace(" ", "_")
-    # Candidate FB images
-    fb_files = [
-        fn for fn in all_imgs
-        if re.search(r"_FB(\.|_)", fn, re.IGNORECASE)
-        and not fn.lower().endswith(".svg")
-    ]
-    # Filter to images belonging to this character if possible
-    # e.g. Rapi_FB.png, Rapi_(White_Promise)_FB.png
     prefix_candidates = {
         base.lower(),
         base_colon.lower(),
         title.split(":")[0].replace(" ", "_").lower(),
         title.split("(")[0].strip().replace(" ", "_").lower(),
     }
-    own_fb = []
-    for fn in fb_files:
+
+    def is_own_file(fn: str) -> bool:
         fn_low = fn.lower()
-        if any(fn_low.startswith(p + "_") or fn_low.startswith(p + "(") or fn_low.startswith(p + "%") for p in prefix_candidates if p):
-            own_fb.append(fn)
-    if not own_fb and fb_files:
-        # Fallback: take first FB file if page only has one or few
-        own_fb = fb_files
+        return any(fn_low.startswith(p + "_") or fn_low.startswith(p + "(") or fn_low.startswith(p + "%") for p in prefix_candidates if p)
 
-    # Fallback if no _FB image at all: look for _MI.png or character portrait
-    if not own_fb:
-        mi_files = [
-            fn for fn in all_imgs
-            if re.search(r"_MI\.(png|jpg|webp)$", fn, re.IGNORECASE)
-            and any(fn.lower().startswith(p) for p in prefix_candidates if p)
-        ]
-        own_fb = mi_files[:1]
+    def is_excluded(fn: str) -> bool:
+        low = fn.lower()
+        return low.endswith(".svg") or "_sd" in low or "chibi" in low or "_mi." in low or "icon" in low
 
-    # Build (label, filename) pairs, putting default ("通常") first
-    results = []
-    seen = set()
-    for fn in own_fb:
-        if fn in seen:
+    fb_default = ""
+    cover_default = ""
+    aim_default = ""
+    costumes = []
+
+    candidates = [fn for fn in all_imgs if not is_excluded(fn)]
+    own_candidates = [fn for fn in candidates if is_own_file(fn)]
+    pool = own_candidates if own_candidates else candidates
+
+    for fn in pool:
+        m_costume = re.search(r"_\(([^)]+)\)_FB\.(png|jpg|jpeg|webp)$", fn, re.IGNORECASE)
+        if m_costume:
+            cname = m_costume.group(1).replace("_", " ").strip()
+            costumes.append((f"コスチューム：{cname}", fn))
             continue
-        seen.add(fn)
-        # Check if costume in parentheses: Name_(Costume_Name)_FB.png
-        m = re.search(r"_\(([^)]+)\)_FB", fn, re.IGNORECASE)
-        if m:
-            costume_name = m.group(1).replace("_", " ").strip()
-            results.append((f"コスチューム：{costume_name}", fn))
-        elif re.search(r"_FB\.(png|jpg|jpeg|webp)$", fn, re.IGNORECASE):
-            results.insert(0, ("通常", fn))
-        else:
-            # Variant FB or MI
-            clean = re.sub(r"\.(png|jpg|jpeg|webp)$", "", fn, flags=re.IGNORECASE).replace("_", " ")
-            if not any(lbl == "通常" for lbl, _ in results):
-                results.insert(0, ("通常", fn))
-            else:
-                results.append((f"バリエーション：{clean}", fn))
+        if re.search(r"_FB\.(png|jpg|jpeg|webp)$", fn, re.IGNORECASE) and not fb_default:
+            fb_default = fn
+        elif re.search(r"_cover_idle\.(png|jpg|jpeg|webp)$", fn, re.IGNORECASE) and not re.search(r"_\([^)]+\)_cover_idle", fn) and not cover_default:
+            cover_default = fn
+        elif re.search(r"_aim_idle_combat\.(png|jpg|jpeg|webp)$", fn, re.IGNORECASE) and not re.search(r"_\([^)]+\)_aim_idle_combat", fn) and not aim_default:
+            aim_default = fn
 
-    # Ensure "通常" is first if present
-    results.sort(key=lambda x: (0 if x[0] == "通常" else 1, x[0]))
+    # Fallbacks if non-costume pattern didn't match
+    if not fb_default:
+        for fn in pool:
+            if "_fb" in fn.lower() and not re.search(r"_\([^)]+\)_fb", fn.lower()):
+                fb_default = fn
+                break
+    if not cover_default:
+        for fn in pool:
+            if "cover_idle" in fn.lower() and not re.search(r"_\([^)]+\)_cover_idle", fn.lower()):
+                cover_default = fn
+                break
+    if not aim_default:
+        for fn in pool:
+            if "aim_idle_combat" in fn.lower() and not re.search(r"_\([^)]+\)_aim_idle_combat", fn.lower()):
+                aim_default = fn
+                break
+
+    results = []
+    if fb_default:
+        results.append(("立ち絵", fb_default))
+    if cover_default:
+        results.append(("射撃待機", cover_default))
+    if aim_default:
+        results.append(("射撃中", aim_default))
+    results.extend(sorted(set(costumes), key=lambda x: x[0]))
     return results
 
 
@@ -513,7 +536,7 @@ def main():
         detail_map[item["url"]] = detail
 
         raw_imgs = fetch_fandom_page_images(fchar["title"], refresh=args.refresh)
-        selected = select_character_fb_files(fchar["title"], raw_imgs)
+        selected = select_character_pose_and_costume_files(fchar["title"], raw_imgs)
         char_files_map[fchar["title"]] = selected
         for _, fn in selected:
             all_needed_files.append(fn)
@@ -546,7 +569,31 @@ def main():
             empty_stats["skills"] += 1
 
         images = []
+        selected_map = dict(char_files_map[fchar["title"]])
+
+        # 1. 立ち絵 (Game8 primary if available, else Fandom FB)
+        if detail.get("tachie_url"):
+            images.append({
+                "label": "立ち絵",
+                "url": detail["tachie_url"],
+                "source": "Game8",
+                "credit": "SHIFT UP",
+            })
+        elif "立ち絵" in selected_map:
+            fn = selected_map["立ち絵"]
+            u = url_map.get(fn) or url_map.get(fn.replace(" ", "_"))
+            if u:
+                images.append({
+                    "label": "立ち絵",
+                    "url": u,
+                    "source": "NIKKE Wiki (Fandom)",
+                    "credit": "SHIFT UP",
+                })
+
+        # 2. 射撃待機 & 3. 射撃中 & Costumes (Fandom)
         for label, fn in char_files_map[fchar["title"]]:
+            if label == "立ち絵":
+                continue
             u = url_map.get(fn) or url_map.get(fn.replace(" ", "_"))
             if u:
                 images.append({
@@ -555,9 +602,18 @@ def main():
                     "source": "NIKKE Wiki (Fandom)",
                     "credit": "SHIFT UP",
                 })
-        if not images:
-            missing_images_chars.append({"id": rec_id, "name": name_jp, "fandom": fchar["title"]})
 
+        labels_present = {im["label"] for im in images}
+        missing_poses = [p for p in ("立ち絵", "射撃待機", "射撃中") if p not in labels_present]
+        if missing_poses:
+            missing_images_chars.append({
+                "id": rec_id,
+                "name": name_jp,
+                "fandom": fchar["title"],
+                "missing": missing_poses,
+            })
+
+        fandom_page_url = "https://nikke-goddess-of-victory-international.fandom.com/wiki/" + urllib.parse.quote(fchar["title"].replace(" ", "_"))
         records.append({
             "id": rec_id,
             "name": name_jp,
@@ -574,6 +630,7 @@ def main():
             "images": images,
             "sourceInfo": {
                 "url": item["url"],
+                "fandomUrl": fandom_page_url,
                 "date": today_str,
             },
         })

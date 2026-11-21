@@ -32,14 +32,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/4/47/Sky_FB.png/revision/latest?cb=20261119153251",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/13226205/95359b59553a6b593f351e23ed6b2c9b.webp/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/6/69/Sky_cover_idle.png/revision/latest?cb=20261119153319",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/a/a4/Sky_aim_idle_combat.png/revision/latest?cb=20261119153334",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/844017",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Sky",
       "date": "2026-11-22"
     }
   },
@@ -74,8 +87,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
+        "label": "立ち絵",
         "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/c/c0/Marian_Queen_FB.png/revision/latest?cb=20261101085819",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/d/db/Marian_Queen_cover_idle.png/revision/latest?cb=20261031142538",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/2/2b/Marian_Queen_aim_idle_combat.png/revision/latest?cb=20261031142554",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -88,6 +113,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/838996",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Marian%3A_Queen",
       "date": "2026-11-22"
     }
   },
@@ -122,14 +148,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
+        "label": "立ち絵",
         "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/5/5f/Rapunzel_Sanctuary_FB.png/revision/latest?cb=20260831155711",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/5/5c/Rapunzel_Sanctuary_cover_idle.png/revision/latest?cb=20261031150518",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/6/60/Rapunzel_Sanctuary_aim_idle_combat.png/revision/latest?cb=20261031150527",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/838997",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Rapunzel%3A_Sanctuary",
       "date": "2026-11-22"
     }
   },
@@ -164,14 +203,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
+        "label": "立ち絵",
         "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/d/de/Scarlet_Goddeath_FB.png/revision/latest?cb=20260831155954",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/f7/Scarlet_Goddeath_cover_idle.png/revision/latest?cb=20261031142817",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/9/93/Scarlet_Goddeath_aim_idle_combat.png/revision/latest?cb=20261031142933",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/838998",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Scarlet%3A_Goddeath",
       "date": "2026-11-22"
     }
   },
@@ -206,14 +258,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/9/9c/Belorta_Pumpkin_Witch_FB.png/revision/latest?cb=20261010211320",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/13077239/021d1e0e5b7a81057a9d577f4bbacb11.webp/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/1/1b/Belorta_Pumpkin_Witch_cover_idle.png/revision/latest?cb=20261014042445",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/0/0e/Belorta_Pumpkin_Witch_aim_idle_combat.png/revision/latest?cb=20261014042443",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/822627",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Belorta%3A_Pumpkin_Witch",
       "date": "2026-11-22"
     }
   },
@@ -248,14 +313,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/9/99/Sin_Swift_Bunny_FB.png/revision/latest?cb=20260922033426",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/13008468/4d1f4e15210b2159028a7f0f2e369797.webp/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/83/Sin_Swift_Bunny_cover_idle.png/revision/latest?cb=20260921191824",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/c/c4/Sin_Swift_Bunny_aim_idle_combat.png/revision/latest?cb=20260921191821",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/816394",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Sin%3A_Swift_Bunny",
       "date": "2026-11-22"
     }
   },
@@ -290,14 +368,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/8c/Guilty_Mighty_Bunny_FB.png/revision/latest?cb=20260922032847",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/13008469/c7565b64447ec039bdea8a9fd7248e7a.webp/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/6/6a/Guilty_Mighty_Bunny_cover_idle.png/revision/latest?cb=20260921192010",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/6/66/Guilty_Mighty_Bunny_aim_idle_combat.png/revision/latest?cb=20260921192050",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/816395",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Guilty%3A_Mighty_Bunny",
       "date": "2026-11-22"
     }
   },
@@ -332,14 +423,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/1/17/Drake_Great_Villain_FB.png/revision/latest?cb=20260908021534",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/12938941/daae4936efff255c8d6b9a0d278eb83e.webp/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/3/3b/Drake_Great_Villain_cover_idle.png/revision/latest?cb=20260909132659",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/0/0b/Drake_Great_Villain_aim_idle_combat.png/revision/latest?cb=20260909132716",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/813081",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Drake%3A_Great_Villain",
       "date": "2026-11-22"
     }
   },
@@ -374,8 +478,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/2/2d/Queen_%28Makoto_Niijima%29_%28Queen%27s_Pajamas_%28Ver._NIKKE_Collabo%29%29_FB.png/revision/latest?cb=20260831155634",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/12865960/c18a387b9712e499b16dc34a2b18619f.webp/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/f0/Queen_%28Makoto_Niijima%29_%28Queen%27s_Pajamas_%28Ver._NIKKE_Collabo%29%29_cover_idle.png/revision/latest?cb=20260828011930",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/7/78/Queen_%28Makoto_Niijima%29_%28Queen%27s_Pajamas_%28Ver._NIKKE_Collabo%29%29_aim_idle_combat.png/revision/latest?cb=20260828011940",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -394,6 +510,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/805934",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Queen_%28Makoto_Niijima%29",
       "date": "2026-11-22"
     }
   },
@@ -428,14 +545,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/b/b1/Yukiko_Amagi_%28Winter_Roomwear_%28Ver._NIKKE_Collabo%29%29_FB.png/revision/latest?cb=20260831155445",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/12865961/f3cb98e48c07cda403a25b66f911206e.webp/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/7/7a/Yukiko_Amagi_cover_idle.png/revision/latest?cb=20260829141653",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/2/2e/Yukiko_Amagi_FB.png/revision/latest?cb=20260831155544",
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/d/d3/Yukiko_Amagi_aim_idle_combat.png/revision/latest?cb=20260829141706",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -448,6 +571,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/805936",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Yukiko_Amagi",
       "date": "2026-11-22"
     }
   },
@@ -482,8 +606,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/9/9c/Maxwell_Ordinary_Mechanic_FB.png/revision/latest?cb=20250424135616",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/12791703/c3bd63cab206b74dd10a9e95a04b7bf4.webp/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/3/3c/Maxwell_Ordinary_Mechanic_cover_idle.png/revision/latest?cb=20260909132742",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/1/1b/Maxwell_Ordinary_Mechanic_aim_idle_combat.png/revision/latest?cb=20260909132759",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -496,6 +632,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/800725",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Maxwell%3A_Ordinary_Mechanic",
       "date": "2026-11-22"
     }
   },
@@ -530,8 +667,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/6/62/Laplace_Ultimate_Hero_FB.png/revision/latest?cb=20250424134845",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/12791704/86e2e95a6019288b29b03499ea402841.webp/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/a/a8/Laplace_Ultimate_Hero_cover_idle.png/revision/latest?cb=20260909132902",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/2/29/Laplace_Ultimate_Hero_aim_idle_combat.png/revision/latest?cb=20260909132918",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -544,6 +693,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/800726",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Laplace%3A_Ultimate_Hero",
       "date": "2026-11-22"
     }
   },
@@ -578,14 +728,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/a/a6/Cinderella_Crystal_Wave_FB.png/revision/latest?cb=20260704122807",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/12715148/b0fb5137bf5801b0614a89393c6bf224.webp/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/e/e2/Cinderella_Crystal_Wave_cover_idle.png/revision/latest?cb=20260913234018",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/b/b5/Cinderella_Crystal_Wave_aim_idle_combat.png/revision/latest?cb=20260913234034",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/794095",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Cinderella%3A_Crystal_Wave",
       "date": "2026-11-22"
     }
   },
@@ -620,14 +783,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/9/97/Marciana_Marine_Study_FB.png/revision/latest?cb=20260704123034",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/12765126/54472913abe7967e428943eaf1561f22.webp/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/b/b6/Marciana_Marine_Study_cover_idle.png/revision/latest?cb=20260913233926",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/89/Marciana_Marine_Study_aim_idle_combat.png/revision/latest?cb=20260913233959",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/794096",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Marciana%3A_Marine_Study",
       "date": "2026-11-22"
     }
   },
@@ -662,14 +838,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/7/75/Ark_Ranger_Black_FB.png/revision/latest?cb=20240519210437",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/12645205/af5a522add1f4ad12701e3496c0d88c3.webp/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/d/d7/Ark_Ranger_Black_cover_idle.png/revision/latest?cb=20260611132244",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/d/d2/Ark_Ranger_Black_aim_idle_combat.png/revision/latest?cb=20260611132533",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/789414",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Ark_Ranger_Black",
       "date": "2026-11-22"
     }
   },
@@ -704,8 +893,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/3/3d/Prika_FB.png/revision/latest?cb=20260514122438",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/12598011/bcdff458b21311b9fbff0298e3aa7c1b.webp/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/e/eb/Prika_cover_idle.png/revision/latest?cb=20260601103635",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/7/7b/Prika_aim_idle_combat.png/revision/latest?cb=20260601103631",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -718,6 +919,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/785627",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Prika",
       "date": "2026-11-22"
     }
   },
@@ -752,8 +954,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/e/e1/Mint_FB.png/revision/latest?cb=20260514122527",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/12568761/a798ff7d61060d630e264dd7feab729c.webp/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/f2/Mint_cover_idle.png/revision/latest?cb=20260517062542",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/4/48/Mint_aim_idle_combat.png/revision/latest?cb=20260517062630",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -766,6 +980,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/784321",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Mint",
       "date": "2026-11-22"
     }
   },
@@ -800,8 +1015,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/5/57/Neon_Vision_Eye_FB.png/revision/latest?cb=20260423130522",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/12514190/0270899b76ce8fdfc2e7d2c191e8afa7.webp/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/3/31/Neon_Vision_Eye_cover_idle.png/revision/latest?cb=20260424185004",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/a/ac/Neon_Vision_Eye_aim_idle_combat.png/revision/latest?cb=20260424185007",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -814,6 +1041,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/780414",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Neon%3A_Vision_Eye",
       "date": "2026-11-22"
     }
   },
@@ -848,14 +1076,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/88/Avistar_FB.png/revision/latest?cb=20250220210950",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/12514191/5b56614d9396659531b8dc52e4b5fe83.webp/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/b/be/Avistar_cover_idle.png/revision/latest?cb=20260424185020",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/0/0b/Avistar_aim_idle_combat.png/revision/latest?cb=20260424185027",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/780415",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Avistar",
       "date": "2026-11-22"
     }
   },
@@ -890,8 +1131,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/3/3e/Anis_Star_FB.png/revision/latest?cb=20260913225757",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/12514124/dfb58bd763327a3f83efd95d266d66c7.webp/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/4/48/Anis_Star_cover_idle.png/revision/latest?cb=20260424184954",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/4/42/Anis_Star_aim_idle_combat.png/revision/latest?cb=20260424185017",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -910,6 +1163,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/780416",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Anis%3A_Star",
       "date": "2026-11-22"
     }
   },
@@ -944,14 +1198,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/2/2e/Snow_Crane_FB.png/revision/latest?cb=20260412130243",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/12473842/18574102333c609ffb7f69f095785c6f.webp/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/4/4a/Snow_Crane_cover_idle.png/revision/latest?cb=20260409063134",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/a/a2/Snow_Crane_aim_idle_combat.png/revision/latest?cb=20260409063206",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/779102",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Snow_Crane",
       "date": "2026-11-22"
     }
   },
@@ -986,14 +1253,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/7/73/Arcana_Fortune_Mate_FB.png/revision/latest?cb=20260319112402",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/12411927/8c76ee78884865f8d2514a29b15a7765.webp/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/d/d0/Arcana_Fortune_Mate_cover_idle.png/revision/latest?cb=20260319111348",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/f1/Arcana_Fortune_Mate_aim_idle_combat.png/revision/latest?cb=20260319111307",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/772073",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Arcana%3A_Fortune_Mate",
       "date": "2026-11-22"
     }
   },
@@ -1028,8 +1308,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/8c/E.H._FB.png/revision/latest?cb=20260219010851",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/12368193/47f1ae5687a62bf199c8f9602a43fcf6.webp/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/8e/E.H._cover_idle.png/revision/latest?cb=20260305124022",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/fd/E.H._aim_idle_combat.png/revision/latest?cb=20260305124023",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -1042,6 +1334,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/767663",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/E.H.",
       "date": "2026-11-22"
     }
   },
@@ -1076,14 +1369,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/6/67/Takina_Inoue_%28DA_Training_Wear_%28Second%29%29_FB.png/revision/latest?cb=20260212123131",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/12305009/507296295fcb75e2e990bb4cb50d5310.webp/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/1/12/Takina_Inoue_cover_idle.png/revision/latest?cb=20260212124642",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/c/c3/Takina_Inoue_FB.png/revision/latest?cb=20260212123144",
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/3/38/Takina_Inoue_aim_idle_combat.png/revision/latest?cb=20260212124643",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -1096,6 +1395,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/761460",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Takina_Inoue",
       "date": "2026-11-22"
     }
   },
@@ -1130,14 +1430,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/2/23/Chisato_Nishikigi_%28DA_Training_Wear_%28First%29%29_FB.png/revision/latest?cb=20260212123129",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/12305008/69f378e709863a1f92692a215c693b85.webp/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/a/a8/Chisato_Nishikigi_cover_idle.png/revision/latest?cb=20260212124633",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/1/15/Chisato_Nishikigi_FB.png/revision/latest?cb=20260212123114",
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/c/c8/Chisato_Nishikigi_aim_idle_combat.png/revision/latest?cb=20260212124632",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -1150,6 +1456,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/761461",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Chisato_Nishikigi",
       "date": "2026-11-22"
     }
   },
@@ -1184,8 +1491,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/7/71/Velvet_FB.png/revision/latest?cb=20260202150835",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/12249461/947b37e60979820d178b71c8bf3e2624.webp/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/4/43/Velvet_cover_idle.png/revision/latest?cb=20260129121834",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/f8/Velvet_aim_idle_combat.png/revision/latest?cb=20260129121833",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -1198,6 +1517,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/759235",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Velvet",
       "date": "2026-11-22"
     }
   },
@@ -1232,8 +1552,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/5/50/Label_FB.png/revision/latest?cb=20260115121630",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/12210488/0eb1c64a0777ab54bc303f56df0c2fb1.webp/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/f6/Label_cover_idle.png/revision/latest?cb=20260115121330",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/fa/Label_aim_idle_combat.png/revision/latest?cb=20260115121329",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -1246,6 +1578,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/756730",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Label",
       "date": "2026-11-22"
     }
   },
@@ -1280,8 +1613,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/a/a1/Snow_White_Heavy_Arms_FB.png/revision/latest?cb=20260102003834",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/12157289/10f5a828e72ea2295fbf89f4308830ce.webp/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/a/ad/Snow_White_Heavy_Arms_cover_idle.png/revision/latest?cb=20251230123851",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/f6/Snow_White_Heavy_Arms_aim_idle_combat.png/revision/latest?cb=20251230123848",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -1294,6 +1639,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/753724",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Snow_White%3A_Heavy_Arms",
       "date": "2026-11-22"
     }
   },
@@ -1328,14 +1674,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/0/07/Brid_Silent_Track_FB.png/revision/latest?cb=20251204124213",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/12062098/49525d65f1716a77dea756bbffb290a6.webp/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/b/bc/Brid_Silent_Track_cover_idle.png/revision/latest?cb=20251204123738",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/5/5a/Brid_Silent_Track_aim_idle_combat.png/revision/latest?cb=20251204123736",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/748141",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Brid%3A_Silent_Track",
       "date": "2026-11-22"
     }
   },
@@ -1370,14 +1729,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/b/bb/Diesel_Winter_Sweets_FB.png/revision/latest?cb=20251204124909",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/12062099/ce0f210d7e1f6866ad60247d3206bafe.webp/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/c/c9/Diesel_Winter_Sweets_cover_idle.png/revision/latest?cb=20251204123729",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/5/5b/Diesel_Winter_Sweets_aim_idle_combat.png/revision/latest?cb=20251204123727",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/748142",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Diesel%3A_Winter_Sweets",
       "date": "2026-11-22"
     }
   },
@@ -1412,14 +1784,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/d/d7/Soline_Frost_Ticket_FB.png/revision/latest?cb=20251120122513",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/12013496/ea6dc065498e08fc5ae770e9ca58510b.webp/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/86/Soline_Frost_Ticket_cover_idle.png/revision/latest?cb=20251120121742",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/2/2e/Soline_Frost_Ticket_aim_idle_combat.png/revision/latest?cb=20251120121741",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/745242",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Soline%3A_Frost_Ticket",
       "date": "2026-11-22"
     }
   },
@@ -1454,14 +1839,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/7/7b/Chime_FB.png/revision/latest?cb=20251102114857",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/11930553/a1af33a185948bed11a416d6994e01fc.webp/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/0/0f/Chime_cover_idle.png/revision/latest?cb=20251031155609",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/e/e6/Chime_aim_idle_combat.png/revision/latest?cb=20251031155755",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/733787",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Chime",
       "date": "2026-11-22"
     }
   },
@@ -1496,8 +1894,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/c/c9/Liberalio_FB.png/revision/latest?cb=20250807131233",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/11930555/26e25c6dbdd7e4cedf6b460e57a7d059.webp/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/b/bc/Liberalio_cover_idle.png/revision/latest?cb=20251031155616",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/5/5e/Liberalio_aim_idle_combat.png/revision/latest?cb=20251031155615",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -1510,6 +1920,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/733788",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Liberalio",
       "date": "2026-11-22"
     }
   },
@@ -1544,8 +1955,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/1/1b/Delta_Ninja_Thief_FB.png/revision/latest?cb=20261119152716",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/11863934/773c6cac3163064e34a764d6006e5177.webp/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/fb/Delta_Ninja_Thief_cover_idle.png/revision/latest?cb=20261119152747",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/4/4d/Delta_Ninja_Thief_aim_idle_combat.png/revision/latest?cb=20261119152814",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -1558,6 +1981,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/730187",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Delta%3A_Ninja_Thief",
       "date": "2026-11-22"
     }
   },
@@ -1592,8 +2016,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
+        "label": "立ち絵",
         "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/3/3e/Ada_Wong_FB.png/revision/latest?cb=20250924131320",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/6/69/Ada_Wong_cover_idle.png/revision/latest?cb=20250924130518",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/3/32/Ada_Wong_aim_idle_combat.png/revision/latest?cb=20250924130511",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -1612,6 +2048,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/722361",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Ada_Wong",
       "date": "2026-11-22"
     }
   },
@@ -1646,8 +2083,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
+        "label": "立ち絵",
         "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/0/09/Jill_Valentine_FB.png/revision/latest?cb=20250924132354",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/c/ca/Jill_Valentine_cover_idle.png/revision/latest?cb=20250924132651",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/7/7f/Jill_Valentine_aim_idle_combat.png/revision/latest?cb=20250924132650",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -1666,6 +2115,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/722362",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Jill_Valentine",
       "date": "2026-11-22"
     }
   },
@@ -1700,14 +2150,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
+        "label": "立ち絵",
         "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/7/74/Milk_Blooming_Bunny_FB.png/revision/latest?cb=20250904110532",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/e/e6/Milk_Blooming_Bunny_cover_idle.png/revision/latest?cb=20250904105930",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/9/9e/Milk_Blooming_Bunny_aim_idle_combat.png/revision/latest?cb=20250904105929",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/714663",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Milk%3A_Blooming_Bunny",
       "date": "2026-11-22"
     }
   },
@@ -1742,14 +2205,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
+        "label": "立ち絵",
         "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/5/54/Ade_Agent_Bunny_FB.png/revision/latest?cb=20250904112401",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/5/5a/Ade_Agent_Bunny_cover_idle.png/revision/latest?cb=20250904112016",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/d/d0/Ade_Agent_Bunny_aim_idle_combat.png/revision/latest?cb=20250904112017",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/714664",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Ade%3A_Agent_Bunny",
       "date": "2026-11-22"
     }
   },
@@ -1784,8 +2260,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/e/ee/Nayuta_FB.png/revision/latest?cb=20251030192639",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/11930556/39a15c44277539af553ebd7e96409235.webp/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/e/ef/Nayuta_cover_idle.png/revision/latest?cb=20260622152242",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/4/4e/Nayuta_aim_idle_combat.png/revision/latest?cb=20251031155619",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -1804,6 +2292,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/709748",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Nayuta",
       "date": "2026-11-22"
     }
   },
@@ -1838,8 +2327,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
+        "label": "立ち絵",
         "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/0/02/Vesti_Tactical_Upgrade_FB.png/revision/latest?cb=20241031010504",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/f2/Vesti_Tactical_Upgrade_cover_idle.png/revision/latest?cb=20250807104749",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/2/22/Vesti_Tactical_Upgrade_aim_idle_combat.png/revision/latest?cb=20250807104748",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -1852,6 +2353,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/709579",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Vesti%3A_Tactical_Upgrade",
       "date": "2026-11-22"
     }
   },
@@ -1886,8 +2388,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
+        "label": "立ち絵",
         "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/d/d9/Eunhwa_Tactical_Upgrade_FB.png/revision/latest?cb=20241031010529",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/6/68/Eunhwa_Tactical_Upgrade_cover_idle.png/revision/latest?cb=20250807105140",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/2/29/Eunhwa_Tactical_Upgrade_aim_idle_combat.png/revision/latest?cb=20250807105142",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -1900,6 +2414,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/709580",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Eunhwa%3A_Tactical_Upgrade",
       "date": "2026-11-22"
     }
   },
@@ -1934,8 +2449,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
+        "label": "立ち絵",
         "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/c/cf/Emma_Tactical_Upgrade_FB.png/revision/latest?cb=20241031010504",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/3/38/Emma_Tactical_Upgrade_cover_idle.png/revision/latest?cb=20250807103910",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/9/91/Emma_Tactical_Upgrade_aim_idle_combat.png/revision/latest?cb=20250807103909",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -1948,6 +2475,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/709581",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Emma%3A_Tactical_Upgrade",
       "date": "2026-11-22"
     }
   },
@@ -1982,14 +2510,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/c/c2/Dorothy_Serendipity_FB.png/revision/latest?cb=20250717111356",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/11549520/e255444cd054dd9fdc005c2156cbabbd.webp/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/2/28/Dorothy_Serendipity_cover_idle.png/revision/latest?cb=20250717111646",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/e/e9/Dorothy_Serendipity_aim_idle_combat.png/revision/latest?cb=20250717111647",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/705736",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Dorothy%3A_Serendipity",
       "date": "2026-11-22"
     }
   },
@@ -2024,14 +2565,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/f8/Elegg_Boom_and_Shock_FB.png/revision/latest?cb=20250717112802",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/11549519/b154764afc21dc0522d74692ab8af028.webp/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/0/0a/Elegg_Boom_and_Shock_cover_idle.png/revision/latest?cb=20250717112206",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/5/56/Elegg_Boom_and_Shock_aim_idle_combat.png/revision/latest?cb=20250717112207",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/705737",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Elegg%3A_Boom_and_Shock",
       "date": "2026-11-22"
     }
   },
@@ -2066,8 +2620,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/e/e6/Sora_FB.png/revision/latest?cb=20250703115914",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/11524283/2277f84ce75420587f586f89f8a3156b.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/1/18/Sora_cover_idle.png/revision/latest?cb=20250703115049",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/4/45/Sora_aim_idle_combat.png/revision/latest?cb=20250703115048",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -2080,6 +2646,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/704436",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Sora",
       "date": "2026-11-22"
     }
   },
@@ -2114,14 +2681,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/3/33/Raven_%28Planet_Diving_Suit_%286th%29_V2%29_FB.png/revision/latest?cb=20250612150315",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/11459170/9d89f8492a3f0fe2483762dfc59c0fee.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/d/d5/Raven_cover_idle.png/revision/latest?cb=20250612145419",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/a/a2/Raven_FB.png/revision/latest?cb=20250612150312",
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/ff/Raven_aim_idle_combat.png/revision/latest?cb=20250612145418",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -2134,6 +2707,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/695644",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Raven",
       "date": "2026-11-22"
     }
   },
@@ -2168,8 +2742,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/a/ae/EVE_FB.png/revision/latest?cb=20250612144714",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/11459166/1cecf03c2080b1266255ad2b2a92e02a.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/8e/EVE_cover_idle.png/revision/latest?cb=20250612143154",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/1/1a/EVE_aim_idle_combat.png/revision/latest?cb=20260913233902",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -2194,6 +2780,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/695645",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/EVE",
       "date": "2026-11-22"
     }
   },
@@ -2228,8 +2815,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/2/2b/K_FB.png/revision/latest?cb=20230706190722",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/11394606/47d3771a0b7b3256890b13c40c0a00d4.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/1/17/K_cover_idle.png/revision/latest?cb=20250529121504",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/fa/K_aim_idle_combat.png/revision/latest?cb=20250529121505",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -2242,6 +2841,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/691915",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/K",
       "date": "2026-11-22"
     }
   },
@@ -2276,14 +2876,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/e/e3/Arcana_FB.png/revision/latest?cb=20250515114928",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/11361590/a41fbbd1025f1e6bd8d7bc83721ba65c.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/5/57/Arcana_cover_idle.png/revision/latest?cb=20250515114056",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/4/4f/Arcana_aim_idle_combat.png/revision/latest?cb=20250515114057",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/687932",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Arcana",
       "date": "2026-11-22"
     }
   },
@@ -2318,14 +2931,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/3/34/Mori_FB.png/revision/latest?cb=20250424002317",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/11267644/bc4018ef2e04fcc6c62130517ed3679b.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/0/06/Mori_cover_idle.png/revision/latest?cb=20250424021312",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/7/79/Mori_aim_idle_combat.png/revision/latest?cb=20250424021313",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/683925",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Mori",
       "date": "2026-11-22"
     }
   },
@@ -2360,8 +2986,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/7/7e/Mihara_Bonding_Chain_FB.png/revision/latest?cb=20241018004609",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/11267648/aa66e30c4febd38c629b28641bba0d74.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/d/d0/Mihara_Bonding_Chain_cover_idle.png/revision/latest?cb=20250424021325",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/0/09/Mihara_Bonding_Chain_aim_idle_combat.png/revision/latest?cb=20250424021318",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -2374,6 +3012,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/683926",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Mihara%3A_Bonding_Chain",
       "date": "2026-11-22"
     }
   },
@@ -2408,8 +3047,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/5/59/Little_Mermaid_FB.png/revision/latest?cb=20241031010918",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/11267645/afb4464aa2a9a456bf137efb81371c0c.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/9/9b/Little_Mermaid_cover_idle.png/revision/latest?cb=20250424021303",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/7/78/Little_Mermaid_aim_idle_combat.png/revision/latest?cb=20250424021304",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -2434,6 +3085,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/683927",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Little_Mermaid",
       "date": "2026-11-22"
     }
   },
@@ -2468,8 +3120,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/fb/Crust_FB.png/revision/latest?cb=20250328030353",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/11238438/dd05e1b0865d10f8d4c02ae2887ce11b.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/e/e7/Crust_cover_idle.png/revision/latest?cb=20250410105917",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/3/34/Crust_aim_idle_combat.png/revision/latest?cb=20250410105919",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -2482,6 +3146,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/681765",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Crust",
       "date": "2026-11-22"
     }
   },
@@ -2516,14 +3181,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/6/6b/Mecha_Shifty_FB.png/revision/latest?cb=20260908035400",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/11218867/9011bc57c59b30350a0ea103ec063018.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/b/b7/Mecha_Shifty_cover_idle.png/revision/latest?cb=20250331223418",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/4/40/Mecha_Shifty_aim_idle_combat.png/revision/latest?cb=20250331223418",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/680582",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Mecha_Shifty",
       "date": "2026-11-22"
     }
   },
@@ -2558,8 +3236,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/2/2a/Bready_FB.png/revision/latest?cb=20250328024249",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/11194758/9babd99209ba72b37bd40827699671bb.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/c/c3/Bready_cover_idle.png/revision/latest?cb=20250328031307",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/d/dd/Bready_aim_idle_combat.png/revision/latest?cb=20250328031306",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -2572,6 +3262,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/679354",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Bready",
       "date": "2026-11-22"
     }
   },
@@ -2606,8 +3297,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/5/56/Trina_FB.png/revision/latest?cb=20250313140722",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/11144694/480ae2bdd97523113ebb30ecce74499f.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/3/30/Trina_cover_idle.png/revision/latest?cb=20250313140240",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/2/2a/Trina_aim_idle_combat.png/revision/latest?cb=20250313140241",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -2620,6 +3323,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/675896",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Trina",
       "date": "2026-11-22"
     }
   },
@@ -2654,8 +3358,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/0/0f/Rei_Ayanami_Tentative_Name_FB.png/revision/latest?cb=20250220145636",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/11059537/2bb40409146f9efb3ac70f82c8e788cd.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/5/53/Rei_Ayanami_Tentative_Name_cover_idle.png/revision/latest?cb=20250220144623",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/9/93/Rei_Ayanami_Tentative_Name_aim_idle_combat.png/revision/latest?cb=20250220144620",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -2674,6 +3390,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/668854",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Rei_Ayanami_%28Tentative_Name%29",
       "date": "2026-11-22"
     }
   },
@@ -2708,8 +3425,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/a/aa/Asuka_Shikinami_Langley_WILLE_FB.png/revision/latest?cb=20250220151813",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/11059534/8ccabdc025d3e823f8139ade084a8961.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/b/b0/Asuka_Shikinami_Langley_WILLE_cover_idle.png/revision/latest?cb=20250220152345",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/b/b1/Asuka_Shikinami_Langley_WILLE_aim_idle_combat.png/revision/latest?cb=20250220152342",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -2728,6 +3457,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/668855",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Asuka_Shikinami_Langley%3A_WILLE",
       "date": "2026-11-22"
     }
   },
@@ -2762,14 +3492,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/9/9b/Anchor_Innocent_Maid_FB.png/revision/latest?cb=20250123133846",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/10963268/8a28329888bfb26166376936762f264f.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/4/40/Anchor_Innocent_Maid_cover_idle.png/revision/latest?cb=20250123135523",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/9/96/Anchor_Innocent_Maid_aim_idle_combat.png/revision/latest?cb=20250123135528",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/664871",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Anchor%3A_Innocent_Maid",
       "date": "2026-11-22"
     }
   },
@@ -2804,8 +3547,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/5/53/Mast_Romantic_Maid_FB.png/revision/latest?cb=20250123133335",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/10963267/d8bc032ac3a9514d82ef52d59ca59ce5.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/5/57/Mast_Romantic_Maid_cover_idle.png/revision/latest?cb=20250123135529",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/4/4a/Mast_Romantic_Maid_aim_idle_combat.png/revision/latest?cb=20250123135531",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -2818,6 +3573,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/664869",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Mast%3A_Romantic_Maid",
       "date": "2026-11-22"
     }
   },
@@ -2852,8 +3608,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/6/62/Mana_FB.png/revision/latest?cb=20231129123154",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/10947363/8439b668fbcafe4f827c3b13c4fd953b.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/6/60/Mana_cover_idle.png/revision/latest?cb=20250116153737",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/a/ac/Mana_aim_idle_combat.png/revision/latest?cb=20250116153738",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -2866,6 +3634,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/663674",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Mana",
       "date": "2026-11-22"
     }
   },
@@ -2900,8 +3669,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/3/37/Rapi_Red_Hood_FB.png/revision/latest?cb=20241226095800",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/10858156/381e80e86cd3f28e08201b8ec395e146.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/5/57/Rapi_Red_Hood_cover_idle.png/revision/latest?cb=20241227015959",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/8c/Rapi_Red_Hood_aim_idle_combat.png/revision/latest?cb=20241227020000",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -2926,6 +3707,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/661203",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Rapi%3A_Red_Hood",
       "date": "2026-11-22"
     }
   },
@@ -2960,14 +3742,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/3/37/Guillotine_Winter_Slayer_FB.png/revision/latest?cb=20241205130727",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/10777434/35281dc65ea2af2d4052da9c04165497.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/1/19/Guillotine_Winter_Slayer_cover_idle.png/revision/latest?cb=20241205140358",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/4/4a/Guillotine_Winter_Slayer_aim_idle_combat.png/revision/latest?cb=20241205140400",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/656219",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Guillotine%3A_Winter_Slayer",
       "date": "2026-11-22"
     }
   },
@@ -3002,14 +3797,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/2/2f/Maiden_Ice_Rose_FB.png/revision/latest?cb=20241205131640",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/10777433/a6ba06a59943fd459624b4985b93427d.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/1/19/Maiden_Ice_Rose_cover_idle.png/revision/latest?cb=20241205140357",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/4/44/Maiden_Ice_Rose_aim_idle_combat.png/revision/latest?cb=20241205140355",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/656220",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Maiden%3A_Ice_Rose",
       "date": "2026-11-22"
     }
   },
@@ -3044,8 +3852,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/3/38/Flora_FB.png/revision/latest?cb=20240222193409",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/10744955/da3e7f2bad244258d92c8e3bcd4c9b38.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/7/7a/Flora_cover_idle.png/revision/latest?cb=20241121145620",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/9/9c/Flora_aim_idle_combat.png/revision/latest?cb=20241121145619",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -3058,6 +3878,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/654653",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Flora",
       "date": "2026-11-22"
     }
   },
@@ -3092,8 +3913,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/b/b2/Grave_FB.png/revision/latest?cb=20241031010555",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/10655698/a9d3123a3eea6b4b00d4568e43b41738.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/9/93/Grave_cover_idle.png/revision/latest?cb=20241031111244",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/5/55/Grave_aim_idle_combat.png/revision/latest?cb=20241031111242",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -3106,6 +3939,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/649637",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Grave",
       "date": "2026-11-22"
     }
   },
@@ -3140,14 +3974,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/b/ba/Rapunzel_Pure_Grace_FB.png/revision/latest?cb=20231103181445",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/10655697/a33963c47b5d09a6b969acc924fc0beb.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/3/35/Rapunzel_Pure_Grace_cover_idle.png/revision/latest?cb=20241031111236",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/5/55/Rapunzel_Pure_Grace_aim_idle_combat.png/revision/latest?cb=20241031111235",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/649638",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Rapunzel%3A_Pure_Grace",
       "date": "2026-11-22"
     }
   },
@@ -3182,8 +4029,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/5/53/Cinderella_FB.png/revision/latest?cb=20231106184109",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/10655699/d4de7109bd2ab29a84a15e4d3a7ff0eb.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/a/a7/Cinderella_cover_idle.png/revision/latest?cb=20241031111239",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/82/Cinderella_aim_idle_combat.png/revision/latest?cb=20241031111238",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -3208,6 +4067,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/649639",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Cinderella",
       "date": "2026-11-22"
     }
   },
@@ -3242,14 +4102,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/83/Rumani_FB.png/revision/latest?cb=20241010153455",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/10632348/345b617db0bb8f9c8d85c8aaaa61cf37.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/1/19/Rumani_cover_idle.png/revision/latest?cb=20241020021729",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/8f/Rumani_aim_idle_combat.png/revision/latest?cb=20241020021728",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/645291",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Rumani",
       "date": "2026-11-22"
     }
   },
@@ -3284,8 +4157,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/e/e7/Quency_Escape_Queen_FB.png/revision/latest?cb=20240919105111",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/10551447/7cbb620d6b4dd04144573860ecb1c56f.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/1/12/Quency_Escape_Queen_cover_idle.png/revision/latest?cb=20240926033126",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/6/63/Quency_Escape_Queen_aim_idle_combat.png/revision/latest?cb=20240926033128",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -3298,6 +4183,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/640066",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Quency%3A_Escape_Queen",
       "date": "2026-11-22"
     }
   },
@@ -3332,8 +4218,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/b/bc/Phantom_FB.png/revision/latest?cb=20240919105110",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/10551446/00784876920baaf96a7eb331cddefa73.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/d/db/Phantom_cover_idle.png/revision/latest?cb=20240928014027",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/d/df/Phantom_aim_idle_combat.png/revision/latest?cb=20240925003021",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -3346,6 +4244,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/640067",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Phantom",
       "date": "2026-11-22"
     }
   },
@@ -3380,8 +4279,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/c/cf/Rouge_FB.png/revision/latest?cb=20240916155048",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/10546132/1e751f3d21893c03e6807969f710281d.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/82/Rouge_cover_idle.png/revision/latest?cb=20240927021059",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/6/68/Rouge_aim_idle_combat.png/revision/latest?cb=20240927021058",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -3394,6 +4305,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/639667",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Rouge",
       "date": "2026-11-22"
     }
   },
@@ -3428,8 +4340,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/5/55/Mari_Makinami_Illustrious_FB.png/revision/latest?cb=20240822021503",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/10418302/75ece454030476279ee8ac0c8bc1fb24.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/4/47/Mari_Makinami_Illustrious_cover_idle.png/revision/latest?cb=20240925185015",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/7/75/Mari_Makinami_Illustrious_aim_idle_combat.png/revision/latest?cb=20240925185009",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -3460,6 +4384,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/634792",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Mari_Makinami_Illustrious",
       "date": "2026-11-22"
     }
   },
@@ -3494,8 +4419,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/1/1b/Rei_Ayanami_FB.png/revision/latest?cb=20240822020247",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/10418303/1fca0acf58106d2f16085650e89832b7.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/9/9f/Rei_Ayanami_cover_idle.png/revision/latest?cb=20240925024244",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/6/65/Rei_Ayanami_aim_idle_combat.png/revision/latest?cb=20240925024240",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -3514,6 +4451,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/634793",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Rei_Ayanami",
       "date": "2026-11-22"
     }
   },
@@ -3548,8 +4486,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/d/da/Asuka_Shikinami_Langley_FB.png/revision/latest?cb=20240822014628",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/10418300/0ffa0e3f6ec68683071816e0633fc5db.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/82/Asuka_Shikinami_Langley_cover_idle.png/revision/latest?cb=20240925004642",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/9/95/Asuka_Shikinami_Langley_aim_idle_combat.png/revision/latest?cb=20240925004643",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -3574,6 +4524,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/634794",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Asuka_Shikinami_Langley",
       "date": "2026-11-22"
     }
   },
@@ -3608,8 +4559,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/86/Zwei_FB.png/revision/latest?cb=20240805032058",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/10363252/5833207735cc9338cc04c4e19e8a6c9b.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/7/75/Zwei_cover_idle.png/revision/latest?cb=20240925011953",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/d/d0/Zwei_aim_idle_combat.png/revision/latest?cb=20240925011954",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -3628,6 +4591,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/631128",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Zwei",
       "date": "2026-11-22"
     }
   },
@@ -3662,8 +4626,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/6/6c/Ein_FB.png/revision/latest?cb=20240725193458",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/10277535/c93cb91c16099ec266a6f8b414319a51.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/5/57/Ein_cover_idle.png/revision/latest?cb=20240927040125",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/5/5f/Ein_aim_idle_combat.png/revision/latest?cb=20240927040124",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -3676,6 +4652,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/628677",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Ein",
       "date": "2026-11-22"
     }
   },
@@ -3710,14 +4687,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/d/da/Sakura_Bloom_in_Summer_FB.png/revision/latest?cb=20240704105132",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/10179814/3a6da6ab6e2f26d70c415fa5634e91d0.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/8d/Sakura_Bloom_in_Summer_cover_idle.png/revision/latest?cb=20240925002602",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/9/9c/Sakura_Bloom_in_Summer_aim_idle_combat.png/revision/latest?cb=20240925002603",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/621028",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Sakura%3A_Bloom_in_Summer",
       "date": "2026-11-22"
     }
   },
@@ -3752,14 +4742,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/b/b8/Rosanna_Chic_Ocean_FB.png/revision/latest?cb=20240704105818",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/10179817/38a52463c84d830f0dddb52171fea93d.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/ff/Rosanna_Chic_Ocean_cover_idle.png/revision/latest?cb=20240925025858",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/9/97/Rosanna_Chic_Ocean_aim_idle_combat.png/revision/latest?cb=20240925025338",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/621029",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Rosanna%3A_Chic_Ocean",
       "date": "2026-11-22"
     }
   },
@@ -3794,8 +4797,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/5/57/Clay_FB.png/revision/latest?cb=20240411193645",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/10141780/cf2cf4c32e07f203282091f679a1d83e.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/fd/Clay_cover_idle.png/revision/latest?cb=20240925020746",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/a/a8/Clay_aim_idle_combat.png/revision/latest?cb=20240925020747",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -3808,6 +4823,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/615640",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Clay",
       "date": "2026-11-22"
     }
   },
@@ -3842,14 +4858,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/5/59/Alice_Wonderland_Bunny_FB.png/revision/latest?cb=20240530181017",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/10070294/49f9f83e0d353b5f8ca6f99fde183896.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/6/65/Alice_Wonderland_Bunny_cover_idle.png/revision/latest?cb=20240925175234",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/1/17/Alice_Wonderland_Bunny_aim_idle_combat.png/revision/latest?cb=20240925175233",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/611747",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Alice%3A_Wonderland_Bunny",
       "date": "2026-11-22"
     }
   },
@@ -3884,14 +4913,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/5/5e/Soda_Twinkling_Bunny_FB.png/revision/latest?cb=20240530175649",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/10070293/c1de9272bcb39223e2c981c6a57513db.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/a/a0/Soda_Twinkling_Bunny_cover_idle.png/revision/latest?cb=20240925181832",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/1/10/Soda_Twinkling_Bunny_aim_idle_combat.png/revision/latest?cb=20240925181837",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/611748",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Soda%3A_Twinkling_Bunny",
       "date": "2026-11-22"
     }
   },
@@ -3926,8 +4968,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/d/d4/Trony_FB.png/revision/latest?cb=20240222174646",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/10040036/1bc0cc33aa32f248aadafc68e5ee3903.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/6/6b/Trony_cover_idle.png/revision/latest?cb=20240926035040",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/7/75/Trony_aim_idle_combat.png/revision/latest?cb=20240926035041",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -3940,6 +4994,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/609188",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Trony",
       "date": "2026-11-22"
     }
   },
@@ -3974,14 +5029,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/d/de/Kilo_FB.png/revision/latest?cb=20240425130458",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/9926778/29dadfbc66c5002aa49c577d3efd9f72.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/3/32/Kilo_cover_idle.png/revision/latest?cb=20240925143115",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/0/03/Kilo_aim_idle_combat.png/revision/latest?cb=20240925143117",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/605382",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Kilo",
       "date": "2026-11-22"
     }
   },
@@ -4016,8 +5084,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/0/0f/Crown_FB.png/revision/latest?cb=20230826110857",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/9926779/cf81e903c66a4ec101d0ade07f31d651.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/d/de/Crown_cover_idle.png/revision/latest?cb=20240924022259",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/a/a8/Crown_aim_idle_combat.png/revision/latest?cb=20240924024354",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -4036,6 +5116,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/605381",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Crown",
       "date": "2026-11-22"
     }
   },
@@ -4070,8 +5151,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/b/b7/Bay_FB.png/revision/latest?cb=20240411193609",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/9893493/6d02a53b06ebf439bac619c9f5ba023f.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/0/09/Bay_cover_idle.png/revision/latest?cb=20240925175653",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/f0/Bay_aim_idle_combat.png/revision/latest?cb=20240925175654",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -4084,6 +5177,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/603536",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Bay",
       "date": "2026-11-22"
     }
   },
@@ -4118,8 +5212,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/d/de/Rem_FB.png/revision/latest?cb=20240322022753",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/9758760/5ca823adc38f522601cee3c484055265.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/0/0e/Rem_cover_idle.png/revision/latest?cb=20240925010453",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/4/42/Rem_aim_idle_combat.png/revision/latest?cb=20240925010452",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -4138,6 +5244,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/599389",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Rem",
       "date": "2026-11-22"
     }
   },
@@ -4172,8 +5279,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/2/2a/Emilia_FB.png/revision/latest?cb=20240322023324",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/9758758/5cf6d76539cdd8e0f1dbd1ca68ee55b1.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/b/be/Emilia_cover_idle.png/revision/latest?cb=20240928003902",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/2/2c/Emilia_aim_idle_combat.png/revision/latest?cb=20240925144915",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -4192,6 +5311,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/599370",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Emilia",
       "date": "2026-11-22"
     }
   },
@@ -4226,8 +5346,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/0/09/D_Killer_Wife_FB.png/revision/latest?cb=20240307130043",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/9681205/4e465d78cb49e8891a024131c05963f1.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/6/63/D_Killer_Wife_cover_idle.png/revision/latest?cb=20240925022917",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/0/09/D_Killer_Wife_aim_idle_combat.png/revision/latest?cb=20240925022918",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -4246,6 +5378,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/598035",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/D%3A_Killer_Wife",
       "date": "2026-11-22"
     }
   },
@@ -4280,14 +5413,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/5/55/Elegg_FB.png/revision/latest?cb=20240222133721",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/9572990/bdf650ccc17c59f8ec4fd08faeb6773c.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/4/4f/Elegg_cover_idle.png/revision/latest?cb=20240925124642",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/5/52/Elegg_aim_idle_combat.png/revision/latest?cb=20240925124643",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/594932",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Elegg",
       "date": "2026-11-22"
     }
   },
@@ -4322,8 +5468,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/7/75/Ade_FB.png/revision/latest?cb=20230323233239",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/9456154/d76473687b4e5c2b87faa3f41da898f3.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/c/c3/Ade_cover_idle.png/revision/latest?cb=20240925001609",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/1/1f/Ade_aim_idle_combat.png/revision/latest?cb=20240925001610",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -4336,6 +5494,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/592574",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Ade",
       "date": "2026-11-22"
     }
   },
@@ -4370,14 +5529,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/2/22/Privaty_Unkind_Maid_FB.png/revision/latest?cb=20240212154033",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/9456153/90edbb3d65bd8a7ea58e6509f1bb801e.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/4/49/Privaty_Unkind_Maid_cover_idle.png/revision/latest?cb=20240927042113",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/d/d4/Privaty_Unkind_Maid_aim_idle_combat.png/revision/latest?cb=20240927042114",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/591093",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Privaty%3A_Unkind_Maid",
       "date": "2026-11-22"
     }
   },
@@ -4412,8 +5584,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/0/02/Moran_FB.png/revision/latest?cb=20230605203833",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/9320555/d07427106141f5dc0ce47cc25fb7e794.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/a/a1/Moran_cover_idle.png/revision/latest?cb=20240925195903",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/2/2d/Moran_aim_idle_combat.png/revision/latest?cb=20240925195753",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -4432,6 +5616,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/586529",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Moran",
       "date": "2026-11-22"
     }
   },
@@ -4466,8 +5651,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/6/62/Leona_FB.png/revision/latest?cb=20230707101151",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/9324503/36bb3e465d5a0891c9f5bb55771a855d.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/7/7a/Leona_cover_idle.png/revision/latest?cb=20240925183410",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/d/d5/Leona_aim_idle_combat.png/revision/latest?cb=20240925183412",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -4480,6 +5677,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/585827",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Leona",
       "date": "2026-11-22"
     }
   },
@@ -4514,8 +5712,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/1/1c/Scarlet_Black_Shadow_FB.png/revision/latest?cb=20240623143752",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/9188157/69d6389019a2a91af2875c032810bef7.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/e/ec/Scarlet_Black_Shadow_cover_idle.png/revision/latest?cb=20240927043727",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/e/ef/Scarlet_Black_Shadow_aim_idle_combat.png/revision/latest?cb=20240927043728",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -4528,6 +5738,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/584217",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Scarlet%3A_Black_Shadow",
       "date": "2026-11-22"
     }
   },
@@ -4562,14 +5773,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/f1/Mica_Snow_Buddy_FB.png/revision/latest?cb=20231207072948",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/9117987/174b1eb1fa1c54debc2578dd66625a4c.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/8f/Mica_Snow_Buddy_cover_idle.png/revision/latest?cb=20240927023028",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/6/6d/Mica_Snow_Buddy_aim_idle_combat.png/revision/latest?cb=20240927023027",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/581082",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Mica%3A_Snow_Buddy",
       "date": "2026-11-22"
     }
   },
@@ -4604,14 +5828,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/1/1a/Ludmilla_Winter_Owner_FB.png/revision/latest?cb=20231207072602",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/9117988/85a0d68a47b47fa6d20736d6ece7e213.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/c/c1/Ludmilla_Winter_Owner_cover_idle.png/revision/latest?cb=20240924232510",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/1/19/Ludmilla_Winter_Owner_aim_idle_combat.png/revision/latest?cb=20240924232512",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/581081",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Ludmilla%3A_Winter_Owner",
       "date": "2026-11-22"
     }
   },
@@ -4646,8 +5883,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/3/37/Tove_FB.png/revision/latest?cb=20231207120750",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/9051973/592b62e9c357cafbb203fc58d5a6001d.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/6/61/Tove_cover_idle.png/revision/latest?cb=20240926023128",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/6/6b/Tove_aim_idle_combat.png/revision/latest?cb=20240926023131",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -4666,6 +5915,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/578075",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Tove",
       "date": "2026-11-22"
     }
   },
@@ -4700,14 +5950,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/b/bb/Snow_White_Innocent_Days_FB.png/revision/latest?cb=20231102154559",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/8920255/5a242c014c27df8144da6d3a648acf20.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/9/93/Snow_White_Innocent_Days_cover_idle.png/revision/latest?cb=20240925174804",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/1/18/Snow_White_Innocent_Days_aim_idle_combat.png/revision/latest?cb=20240925174802",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/569058",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Snow_White%3A_Innocent_Days",
       "date": "2026-11-22"
     }
   },
@@ -4742,8 +6005,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/c/c2/Red_Hood_FB.png/revision/latest?cb=20230721092808",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/8920256/740718ba9cde38f9aae6a7c4285ac5e6.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/d/d6/Red_Hood_cover_idle.png/revision/latest?cb=20240927014631",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/b/be/Red_Hood_aim_idle_combat.png/revision/latest?cb=20240927014634",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -4762,6 +6037,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/569061",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Red_Hood",
       "date": "2026-11-22"
     }
   },
@@ -4796,14 +6072,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/3/31/Quiry_FB.png/revision/latest?cb=20231022233832",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/8874095/0b24e2988d853e0df1eb91b5f72a64c9.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/3/3c/Quiry_cover_idle.png/revision/latest?cb=20240925155056",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/80/Quiry_aim_idle_combat.png/revision/latest?cb=20240925155055",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/561689",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Quiry",
       "date": "2026-11-22"
     }
   },
@@ -4838,8 +6127,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/9/96/Tia_FB.png/revision/latest?cb=20231020004355",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/8787435/fec1269ac570796504a5b215dce0132e.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/5/58/Tia_cover_idle.png/revision/latest?cb=20240927024005",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/d/d8/Tia_aim_idle_combat.png/revision/latest?cb=20240927024002",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -4864,6 +6165,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/555402",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Tia",
       "date": "2026-11-22"
     }
   },
@@ -4898,8 +6200,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/5/58/Naga_FB.png/revision/latest?cb=20230921170751",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/8787436/99e03b34dc712f00442404a92d5b50ee.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/a/a0/Naga_cover_idle.png/revision/latest?cb=20240924231547",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/d/db/Naga_aim_idle_combat.png/revision/latest?cb=20240924231544",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -4924,6 +6238,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/555403",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Naga",
       "date": "2026-11-22"
     }
   },
@@ -4958,8 +6273,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/83/Marciana_FB.png/revision/latest?cb=20230921170726",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/8786874/73ef2d301ac65a67c15dea58c57bbcc5.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/1/14/Marciana_cover_idle.png/revision/latest?cb=20231203090303",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/fa/Marciana_aim_idle_combat.png/revision/latest?cb=20231203090301",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -4972,6 +6299,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/555357",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Marciana",
       "date": "2026-11-22"
     }
   },
@@ -5006,8 +6334,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/7/76/A2_FB.png/revision/latest?cb=20230907143333",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/8589622/06a29fea2aa1fbd9f8805ba2ac5d67bd.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/9/98/A2_cover_idle.png/revision/latest?cb=20240925020007",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/6/67/A2_aim_idle_combat.png/revision/latest?cb=20240925020006",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -5032,6 +6372,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/548234",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/A2",
       "date": "2026-11-22"
     }
   },
@@ -5066,8 +6407,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/a/ac/2B_FB.png/revision/latest?cb=20230905195216",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/8589413/4c37557d56b1452a3b8b75f4e08679b0.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/1/19/2B_cover_idle.png/revision/latest?cb=20240926030229",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/8c/2B_aim_idle_combat.png/revision/latest?cb=20240926030235",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -5092,6 +6445,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/548216",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/2B",
       "date": "2026-11-22"
     }
   },
@@ -5126,14 +6480,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/2/24/Helm_Aquamarine_FB.png/revision/latest?cb=20230803105620",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/8451439/4a18f2f40e06c993e9ef11c6b49ba834.png/original",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/d/d2/Helm_Aquamarine_cover_idle.png/revision/latest?cb=20240926015719",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/b/b1/Helm_Aquamarine_aim_idle_combat.png/revision/latest?cb=20240926015718",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/543203",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Helm%3A_Aquamarine",
       "date": "2026-11-22"
     }
   },
@@ -5168,14 +6535,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/d/df/Anis_Sparkling_Summer_FB.png/revision/latest?cb=20230803105544",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/8449828/d1da730e895f66842aee9ba4dd0afca8.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/b/b6/Anis_Sparkling_Summer_cover_idle.png/revision/latest?cb=20240926022214",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/5/53/Anis_Sparkling_Summer_aim_idle_combat.png/revision/latest?cb=20240926022215",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/543140",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Anis%3A_Sparkling_Summer",
       "date": "2026-11-22"
     }
   },
@@ -5210,8 +6590,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/5/5b/Mast_FB.png/revision/latest?cb=20230706170933",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/8425979/ce2c0f2942c53e25b4aab7196b2fb777.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/6/6a/Mast_cover_idle.png/revision/latest?cb=20240926021216",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/2/2a/Mast_aim_idle_combat.png/revision/latest?cb=20240926021211",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -5230,6 +6622,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/541283",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Mast",
       "date": "2026-11-22"
     }
   },
@@ -5264,14 +6657,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/d/d9/Nero_FB.png/revision/latest?cb=20230706190837",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/8312198/f797d04858aa5e9ad3ae5e83a1944911.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/1/13/Nero_cover_idle.png/revision/latest?cb=20240927015259",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/8b/Nero_aim_idle_combat.png/revision/latest?cb=20240927015258",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/539667",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Nero",
       "date": "2026-11-22"
     }
   },
@@ -5306,14 +6712,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/e/ea/Neon_Blue_Ocean_FB.png/revision/latest?cb=20230615105340",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/8201138/518e6ecb359c328b352bfb0ee2f43893.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/c/cd/Neon_Blue_Ocean_cover_idle.png/revision/latest?cb=20240925130743",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/0/03/Neon_Blue_Ocean_aim_idle_combat.png/revision/latest?cb=20240925130744",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/534701",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Neon%3A_Blue_Ocean",
       "date": "2026-11-22"
     }
   },
@@ -5348,14 +6767,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/3/39/Mary_Bay_Goddess_FB.png/revision/latest?cb=20230615105259",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/8186853/9ae663b9645a6bca3c63fe3bbe6dd3b7.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/4/42/Mary_Bay_Goddess_cover_idle.png/revision/latest?cb=20240927041519",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/6/6c/Mary_Bay_Goddess_aim_idle_combat.png/revision/latest?cb=20240927041518",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/534691",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Mary%3A_Bay_Goddess",
       "date": "2026-11-22"
     }
   },
@@ -5390,8 +6822,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/e/e9/Rosanna_FB.png/revision/latest?cb=20230331044209",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/8106980/8a697daea417bd0b4710c1293512f497.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/e/e0/Rosanna_cover_idle.png/revision/latest?cb=20240925161034",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/c/c5/Rosanna_aim_idle_combat.png/revision/latest?cb=20240925161036",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -5404,6 +6848,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/532344",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Rosanna",
       "date": "2026-11-22"
     }
   },
@@ -5438,8 +6883,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/6/60/Noir_FB.png/revision/latest?cb=20230512063904",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/8078003/d48fa34a7be3bcf90e9f50a19b946dd3.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/f8/Noir_cover_idle.png/revision/latest?cb=20240926013733",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/0/08/Noir_aim_idle_combat.png/revision/latest?cb=20240926013729",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -5458,6 +6915,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/528625",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Noir",
       "date": "2026-11-22"
     }
   },
@@ -5492,8 +6950,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/a/ac/Blanc_FB.png/revision/latest?cb=20230512063853",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/8072614/a81f9111aa283e0f5ec316f51d9a84e6.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/7/72/Blanc_cover_idle.png/revision/latest?cb=20240927012906",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/a/a4/Blanc_aim_idle_combat.png/revision/latest?cb=20240927012905",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -5518,6 +6988,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/528239",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Blanc",
       "date": "2026-11-22"
     }
   },
@@ -5552,14 +7023,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/8d/Rei_FB.png/revision/latest?cb=20230706190639",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/7958331/b6cbcc30706314fc9d58a21ae179ddbf.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/c/c6/Rei_cover_idle.png/revision/latest?cb=20240926005608",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/2/23/Rei_aim_idle_combat.png/revision/latest?cb=20240926005607",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/524445",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Rei",
       "date": "2026-11-22"
     }
   },
@@ -5594,8 +7078,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/87/Dorothy_FB.png/revision/latest?cb=20231103181022",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/7958306/554986f24413978004283f0e687f1e2f.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/d/de/Dorothy_cover_idle.png/revision/latest?cb=20240927013809",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/9/95/Dorothy_aim_idle_combat.png/revision/latest?cb=20240927013808",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -5614,6 +7110,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/524443",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Dorothy",
       "date": "2026-11-22"
     }
   },
@@ -5648,14 +7145,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/1/14/D_FB.png/revision/latest?cb=20230330200205",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/7933221/ca9ffba10efa8d403e222c20a460ec60.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/4/4e/D_cover_idle.png/revision/latest?cb=20240927011942",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/b/ba/D_aim_idle_combat.png/revision/latest?cb=20240927011941",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/522106",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/D",
       "date": "2026-11-22"
     }
   },
@@ -5690,8 +7200,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/5/51/Sakura_FB.png/revision/latest?cb=20230327082235",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/7868052/41f89cbb42107c5c5461223d55449b72.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/8f/Sakura_cover_idle.png/revision/latest?cb=20240924030934",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/1/18/Sakura_aim_idle_combat.png/revision/latest?cb=20240924030935",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -5704,6 +7226,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/520450",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Sakura",
       "date": "2026-11-22"
     }
   },
@@ -5738,14 +7261,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/f6/Nihilister_FB.png/revision/latest?cb=20231117205720",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/7858861/1152ae957a244c30da0d67b578f71506.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/e/ed/Nihilister_cover_idle.png/revision/latest?cb=20240925132653",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/0/03/Nihilister_aim_idle_combat.png/revision/latest?cb=20240925132652",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/520162",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Nihilister",
       "date": "2026-11-22"
     }
   },
@@ -5780,8 +7316,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/5/5b/Biscuit_FB.png/revision/latest?cb=20230706190922",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/7836161/4f7128469f3ab44137e6e86358998fe7.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/b/b5/Biscuit_cover_idle.png/revision/latest?cb=20240924021018",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/6/61/Biscuit_aim_idle_combat.png/revision/latest?cb=20240924021019",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -5794,6 +7342,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/517972",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Biscuit",
       "date": "2026-11-22"
     }
   },
@@ -5828,14 +7377,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/a/a7/Power_FB.png/revision/latest?cb=20230311055801",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/7769018/d458965860c1cd640143647cc8c4affb.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/c/c8/Power_cover_idle.png/revision/latest?cb=20240927015823",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/6/6c/Power_aim_idle_combat.png/revision/latest?cb=20240927015822",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/512656",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Power",
       "date": "2026-11-22"
     }
   },
@@ -5870,8 +7432,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/1/1d/Makima_FB.png/revision/latest?cb=20230404082433",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/7769017/f79cfe83ad309eddd42257ac5baaa08d.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/2/20/Makima_cover_idle.png/revision/latest?cb=20240927035514",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/5/55/Makima_aim_idle_combat.png/revision/latest?cb=20240927035511",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -5884,6 +7458,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/512595",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Makima",
       "date": "2026-11-22"
     }
   },
@@ -5918,14 +7493,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/ff/Soda_FB.png/revision/latest?cb=20230618103937",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/7710731/061062d22112f48b4e231ffb4718fc53.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/e/e7/Soda_cover_idle.png/revision/latest?cb=20240925160112",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/7/70/Soda_aim_idle_combat.png/revision/latest?cb=20240925160113",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/510909",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Soda",
       "date": "2026-11-22"
     }
   },
@@ -5960,14 +7548,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/f7/Cocoa_FB.png/revision/latest?cb=20230618104005",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/7707812/4507eb0a34c0e3fcc6b5418bbc1e2ca9.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/5/54/Cocoa_cover_idle.png/revision/latest?cb=20240926005136",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/81/Cocoa_aim_idle_combat.png/revision/latest?cb=20240926005138",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/510685",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Cocoa",
       "date": "2026-11-22"
     }
   },
@@ -6002,8 +7603,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/87/Viper_FB.png/revision/latest?cb=20230311035423",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/7638742/32d27a0b94fee9a2b16c394a89b73b1d.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/f8/Viper_cover_idle.png/revision/latest?cb=20240924030100",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/6/61/Viper_aim_idle_combat.png/revision/latest?cb=20240924030059",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -6028,6 +7641,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/507257",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Viper",
       "date": "2026-11-22"
     }
   },
@@ -6062,8 +7676,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/3/33/Guilty_FB.png/revision/latest?cb=20230311035335",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/7637976/6c05eca9e16c0e5f4a4aee0e9c6b22c6.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/3/3a/Guilty_cover_idle.png/revision/latest?cb=20240926034041",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/86/Guilty_aim_idle_combat.png/revision/latest?cb=20240926034040",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -6076,6 +7702,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/507155",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Guilty",
       "date": "2026-11-22"
     }
   },
@@ -6110,8 +7737,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/9/92/Sin_FB.png/revision/latest?cb=20230210015546",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/7637977/25f53a627260f32f4287909f20ea18cd.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/a/a3/Sin_cover_idle.png/revision/latest?cb=20240927044744",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/e/e7/Sin_aim_idle_combat.png/revision/latest?cb=20240927044951",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -6124,6 +7763,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/507156",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Sin",
       "date": "2026-11-22"
     }
   },
@@ -6158,14 +7798,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/c/c4/Quency_FB.png/revision/latest?cb=20230311035356",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/7637975/3282a8e9a123225d25257903ba753491.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/7/7f/Quency_cover_idle.png/revision/latest?cb=20240926012329",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/fa/Quency_aim_idle_combat.png/revision/latest?cb=20240926012327",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/507157",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Quency",
       "date": "2026-11-22"
     }
   },
@@ -6200,8 +7853,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/e/e0/Jackal_FB.png/revision/latest?cb=20230311035413",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/7635780/f051a0e9d211b157700db0bdfff3b2ec.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/d/d8/Jackal_cover_idle.png/revision/latest?cb=20240925011459",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/0/0e/Jackal_aim_idle_combat.png/revision/latest?cb=20240925011458",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -6214,6 +7879,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/507076",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Jackal",
       "date": "2026-11-22"
     }
   },
@@ -6248,8 +7914,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/4/44/Modernia_FB.png/revision/latest?cb=20250328122010",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/7595329/a97a9d62e665530290538edac1f8d61e.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/7/78/Modernia_cover_idle.png/revision/latest?cb=20250328121230",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/1/1f/Modernia_aim_idle_combat.png/revision/latest?cb=20250328121329",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -6268,6 +7946,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/506118",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Modernia",
       "date": "2026-11-22"
     }
   },
@@ -6302,14 +7981,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/6/6b/Anne_Miracle_Fairy_FB.png/revision/latest?cb=20230316043250",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/7510184/d7a9ee8327d7ce47e40b35f55b6607ee.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/c/c9/Anne_Miracle_Fairy_cover_idle.png/revision/latest?cb=20240925000546",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/e/e5/Anne_Miracle_Fairy_aim_idle_combat.png/revision/latest?cb=20240925000547",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/501492",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Anne%3A_Miracle_Fairy",
       "date": "2026-11-22"
     }
   },
@@ -6344,14 +8036,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/9/91/Rupee_Winter_Shopper_FB.png/revision/latest?cb=20230111143319",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/7510183/ede5f19742b089d979412c2c55dd887b.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/fe/Rupee_Winter_Shopper_cover_idle.png/revision/latest?cb=20240925145803",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/1/1d/Rupee_Winter_Shopper_aim_idle_combat.png/revision/latest?cb=20240925145804",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/501052",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Rupee%3A_Winter_Shopper",
       "date": "2026-11-22"
     }
   },
@@ -6386,14 +8091,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/83/Laplace_FB.png/revision/latest?cb=20230714114450",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/7476546/918b41c32ab7e2d7c35fd12ad6100b78.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/7/72/Laplace_cover_idle.png/revision/latest?cb=20240927044202",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/4/44/Laplace_aim_idle_combat.png/revision/latest?cb=20240927044203",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/499433",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Laplace",
       "date": "2026-11-22"
     }
   },
@@ -6428,8 +8146,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/7/74/Helm_FB.png/revision/latest?cb=20230403071243",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/7427174/d05c0837e221ea1064a4561bbf2c0b59.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/3/35/Helm_cover_idle.png/revision/latest?cb=20240925133738",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/6/63/Helm_aim_idle_combat.png/revision/latest?cb=20240925133739",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -6448,6 +8178,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/493234",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Helm",
       "date": "2026-11-22"
     }
   },
@@ -6482,14 +8213,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/6/60/Admi_FB.png/revision/latest?cb=20230111014354",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/7384288/129faa0803be49415cd115ec2cd2664e.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/5/5a/Admi_cover_idle.png/revision/latest?cb=20240927034550",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/b/b3/Admi_aim_idle_combat.png/revision/latest?cb=20240927034550",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/492096",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Admi",
       "date": "2026-11-22"
     }
   },
@@ -6524,14 +8268,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/f1/Aria_FB.png/revision/latest?cb=20230128091149",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/7384287/1a99541693cdebd0b7bd6bb6039f1029.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/fb/Aria_cover_idle.png/revision/latest?cb=20240925021247",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/4/43/Aria_aim_idle_combat.png/revision/latest?cb=20240925021246",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/492098",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Aria",
       "date": "2026-11-22"
     }
   },
@@ -6566,8 +8323,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/b/b7/Alice_FB.png/revision/latest?cb=20230320072148",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/7384286/068922b11a3b0d34e1fbd9dd133decec.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/6/63/Alice_cover_idle.png/revision/latest?cb=20240926025033",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/c/c8/Alice_aim_idle_combat.png/revision/latest?cb=20240926025037",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -6586,6 +8355,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/492099",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Alice",
       "date": "2026-11-22"
     }
   },
@@ -6620,8 +8390,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/6/63/Isabel_FB.png/revision/latest?cb=20230830042503",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/7591136/2437b0ac26f594a6c4aaa0e0f958ba40.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/f3/Isabel_cover_idle.png/revision/latest?cb=20240927030250",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/4/4d/Isabel_aim_idle_combat.png/revision/latest?cb=20240927030250",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -6634,6 +8416,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/492100",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Isabel",
       "date": "2026-11-22"
     }
   },
@@ -6668,14 +8451,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/84/Eunhwa_FB.png/revision/latest?cb=20221211105127",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/7384289/7c744e9c2ddbd0b2cb93943087691d4d.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/8e/Eunhwa_cover_idle.png/revision/latest?cb=20240927031325",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/4/4e/Eunhwa_aim_idle_combat.png/revision/latest?cb=20240927031326",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/492101",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Eunhwa",
       "date": "2026-11-22"
     }
   },
@@ -6710,8 +8506,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/9/98/Exia_FB.png/revision/latest?cb=20230404082027",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/7384315/deeef0f33108b07e9c4cae623a86ab0b.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/d/d3/Exia_cover_idle.png/revision/latest?cb=20240925013633",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/9/9d/Exia_aim_idle_combat.png/revision/latest?cb=20240925013628",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -6736,6 +8544,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/492103",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Exia",
       "date": "2026-11-22"
     }
   },
@@ -6770,14 +8579,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/e/e3/Epinel_FB.png/revision/latest?cb=20241109182802",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/7384295/9e0be44ce1a7b12f4686096bc1d1a7c4.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/7/70/Epinel_cover_idle.png/revision/latest?cb=20240926004535",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/0/0d/Epinel_aim_idle_combat.png/revision/latest?cb=20240926004534",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/492104",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Epinel",
       "date": "2026-11-22"
     }
   },
@@ -6812,8 +8634,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/e/eb/Emma_FB.png/revision/latest?cb=20230404081931",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/7384316/3b6ac673a126848f49eb2fbeebf5ad52.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/2/28/Emma_cover_idle.png/revision/latest?cb=20240926031525",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/6/6e/Emma_aim_idle_combat.png/revision/latest?cb=20240926031519",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -6832,6 +8666,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/492105",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Emma",
       "date": "2026-11-22"
     }
   },
@@ -6866,8 +8701,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/a/a6/Guillotine_FB.png/revision/latest?cb=20221228053010",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/7384308/916701f5ddf7415e36d0eb0c06067a41.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/3/34/Guillotine_cover_idle.png/revision/latest?cb=20240926032523",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/4/4b/Guillotine_aim_idle_combat.png/revision/latest?cb=20240926032526",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -6880,6 +8727,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/492107",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Guillotine",
       "date": "2026-11-22"
     }
   },
@@ -6914,14 +8762,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/87/Crow_FB.png/revision/latest?cb=20230111011406",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/7384314/7bcf6c3a6efa001b657c57c0c19de7cb.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/1/15/Crow_cover_idle.png/revision/latest?cb=20240925005202",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/c/c3/Crow_aim_idle_combat.png/revision/latest?cb=20240925005202",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/492108",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Crow",
       "date": "2026-11-22"
     }
   },
@@ -6956,8 +8817,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/0/03/Signal_FB.png/revision/latest?cb=20230404085616",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/7384312/23403ff3c3c0aa4705ce4ce423b222ce.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/2/24/Signal_cover_idle.png/revision/latest?cb=20240926014615",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/d/db/Signal_aim_idle_combat.png/revision/latest?cb=20240926014616",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -6970,6 +8843,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/492110",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Signal",
       "date": "2026-11-22"
     }
   },
@@ -7004,8 +8878,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/c/c8/Sugar_FB.png/revision/latest?cb=20230403072801",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/7384293/e0f2574a374618ed44e3daaf6762f0b8.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/fc/Sugar_cover_idle.png/revision/latest?cb=20240925031405",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/b/b8/Sugar_aim_idle_combat.png/revision/latest?cb=20240925031400",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -7030,6 +8916,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/492111",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Sugar",
       "date": "2026-11-22"
     }
   },
@@ -7064,8 +8951,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
+        "label": "立ち絵",
         "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/d/dc/Julia_FB.png/revision/latest?cb=20230403075535",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/5/52/Julia_cover_idle.png/revision/latest?cb=20240925032316",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/8d/Julia_aim_idle_combat.png/revision/latest?cb=20240925032317",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -7084,6 +8983,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/492112",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Julia",
       "date": "2026-11-22"
     }
   },
@@ -7118,8 +9018,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/1/11/Snow_White_FB.png/revision/latest?cb=20230713183128",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/7384300/b49087b9eec6cfb2f8a107878e47a3e3.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/2/2f/Snow_White_cover_idle.png/revision/latest?cb=20250124115940",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/d/d4/Snow_White_aim_idle_combat.png/revision/latest?cb=20240926024026",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -7132,6 +9044,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/492113",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Snow_White",
       "date": "2026-11-22"
     }
   },
@@ -7166,8 +9079,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/2/22/Centi_FB.png/revision/latest?cb=20230404083435",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/7384297/9d16c0536b44d1c407009ac5626aabaa.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/e/ec/Centi_cover_idle.png/revision/latest?cb=20240925143837",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/c/c3/Centi_aim_idle_combat.png/revision/latest?cb=20240925143834",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -7186,6 +9111,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/492114",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Centi",
       "date": "2026-11-22"
     }
   },
@@ -7220,14 +9146,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/4/49/Soline_FB.png/revision/latest?cb=20230713182517",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/7384318/09fa5038ba062a970a2111b096fb1d0c.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/0/06/Soline_cover_idle.png/revision/latest?cb=20240925024751",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/0/08/Soline_aim_idle_combat.png/revision/latest?cb=20240925024658",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/492115",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Soline",
       "date": "2026-11-22"
     }
   },
@@ -7262,8 +9201,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/c/c3/Diesel_FB.png/revision/latest?cb=20230404083038",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/7384291/55cf92a4a3307d2794fc68ea8676bf3b.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/b/bf/Diesel_cover_idle.png/revision/latest?cb=20240926004028",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/0/0f/Diesel_aim_idle_combat.png/revision/latest?cb=20240926004020",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -7288,6 +9239,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/492119",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Diesel",
       "date": "2026-11-22"
     }
   },
@@ -7322,8 +9274,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/5/58/Dolla_FB.png/revision/latest?cb=20230403065710",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/7384313/80bc52839e42835382d90ef62a22c37d.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/4/42/Dolla_cover_idle.png/revision/latest?cb=20240925034854",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/a/ad/Dolla_aim_idle_combat.png/revision/latest?cb=20240925034855",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -7336,6 +9300,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/492121",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Dolla",
       "date": "2026-11-22"
     }
   },
@@ -7370,8 +9335,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/d/d7/Drake_FB.png/revision/latest?cb=20211211235146",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/7384305/ad39461300186fce29ba0f116cbc15ce.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/d/df/Drake_cover_idle.png/revision/latest?cb=20240925142525",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/a/ae/Drake_aim_idle_combat.png/revision/latest?cb=20240925142520",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -7390,6 +9367,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/492122",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Drake",
       "date": "2026-11-22"
     }
   },
@@ -7424,14 +9402,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/d/de/Noah_FB.png/revision/latest?cb=20230128051525",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/7384319/ce10d020d33ed342d17750162fb8cfe4.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/4/44/Noah_cover_idle.png/revision/latest?cb=20240925011014",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/6/68/Noah_aim_idle_combat.png/revision/latest?cb=20240925011015",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/492124",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Noah",
       "date": "2026-11-22"
     }
   },
@@ -7466,8 +9457,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/5/50/Noise_FB.png/revision/latest?cb=20230414112415",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/7384317/0daa06df9d46ee0a06fd73dd801b6c44.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/b/bb/Noise_cover_idle.png/revision/latest?cb=20240925181020",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/a/a9/Noise_aim_idle_combat.png/revision/latest?cb=20240925181025",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -7486,6 +9489,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/492125",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Noise",
       "date": "2026-11-22"
     }
   },
@@ -7520,8 +9524,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/8c/Novel_FB.png/revision/latest?cb=20230414112140",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/7384328/ed5493919497dd2c9f1fb04f98c1e40b.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/7/72/Novel_cover_idle.png/revision/latest?cb=20240925152003",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/3/3c/Novel_aim_idle_combat.png/revision/latest?cb=20240925152005",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -7540,6 +9556,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/492126",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Novel",
       "date": "2026-11-22"
     }
   },
@@ -7574,8 +9591,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/7/77/Harran_FB.png/revision/latest?cb=20230201081709",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/7384320/a832e2ab391d935c42a5f25296812efe.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/d/d9/Harran_cover_idle.png/revision/latest?cb=20240925193636",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/83/Harran_aim_idle_combat.png/revision/latest?cb=20240925193637",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -7588,6 +9617,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/492127",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Harran",
       "date": "2026-11-22"
     }
   },
@@ -7622,8 +9652,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/c/cd/Folkwang_FB.png/revision/latest?cb=20230128082341",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/7384323/d851e4fe55a2457ab93f880249e26b81.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/a/a5/Folkwang_cover_idle.png/revision/latest?cb=20240925125643",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/5/57/Folkwang_aim_idle_combat.png/revision/latest?cb=20240925125642",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -7636,6 +9678,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/492128",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Folkwang",
       "date": "2026-11-22"
     }
   },
@@ -7670,8 +9713,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/6/6c/Brid_FB.png/revision/latest?cb=20230404082650",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/7384303/ffde11b03fcf6b2c96536988506a0e0d.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/7/79/Brid_cover_idle.png/revision/latest?cb=20240926010847",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/85/Brid_aim_idle_combat.png/revision/latest?cb=20240926010852",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -7690,6 +9745,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/492130",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Brid",
       "date": "2026-11-22"
     }
   },
@@ -7724,8 +9780,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/1/13/Privaty_FB.png/revision/latest?cb=20230414111937",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/7384292/c7b930bac0112999be774c9462744d35.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/6/62/Privaty_cover_idle.png/revision/latest?cb=20240924234728",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/4/41/Privaty_aim_idle_combat.png/revision/latest?cb=20240924234727",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -7756,6 +9824,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/492131",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Privaty",
       "date": "2026-11-22"
     }
   },
@@ -7790,8 +9859,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/f0/Frima_FB.png/revision/latest?cb=20230615120104",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/7384304/728c25f3438854e80b464719ade40a14.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/4/4d/Frima_cover_idle.png/revision/latest?cb=20240927022214",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/c/c6/Frima_aim_idle_combat.png/revision/latest?cb=20240927022217",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -7804,6 +9885,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/492132",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Frima",
       "date": "2026-11-22"
     }
   },
@@ -7838,8 +9920,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/88/Vesti_FB.png/revision/latest?cb=20221228073439",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/7384301/969a315a4145f7f400550f25f97e1ed5.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/4/4b/Vesti_cover_idle.png/revision/latest?cb=20240925032851",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/f4/Vesti_aim_idle_combat.png/revision/latest?cb=20240925032852",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -7852,6 +9946,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/492136",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Vesti",
       "date": "2026-11-22"
     }
   },
@@ -7886,8 +9981,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/c/ca/Pepper_FB.png/revision/latest?cb=20230128081146",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/7384326/7dcdb368978bc56745074d48a63b7d85.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/2/2c/Pepper_cover_idle.png/revision/latest?cb=20240924235734",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/5/59/Pepper_aim_idle_combat.png/revision/latest?cb=20240924235735",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -7900,6 +10007,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/492137",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Pepper",
       "date": "2026-11-22"
     }
   },
@@ -7934,8 +10042,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/c/ca/Poli_FB.png/revision/latest?cb=20230404085007",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/7384311/fe545f23288d369a3e685329f19e12b0.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/0/01/Poli_cover_idle.png/revision/latest?cb=20240925022354",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/b/b9/Poli_aim_idle_combat.png/revision/latest?cb=20240925022355",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -7954,6 +10074,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/492139",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Poli",
       "date": "2026-11-22"
     }
   },
@@ -7988,8 +10109,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/d/d9/Volume_FB.png/revision/latest?cb=20230618104852",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/7384325/565b9f6427a924bbede4b80c732a2d45.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/4/46/Volume_cover_idle.png/revision/latest?cb=20240925221211",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/e/e3/Volume_aim_idle_combat.png/revision/latest?cb=20240925221210",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -8002,6 +10135,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/492140",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Volume",
       "date": "2026-11-22"
     }
   },
@@ -8036,8 +10170,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/c/c7/Maxwell_FB.png/revision/latest?cb=20230404082836",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/7384309/624ccdf9b3c6e0b0d9756339edb48af8.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/b/b8/Maxwell_cover_idle.png/revision/latest?cb=20240925014843",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/b/b3/Maxwell_aim_idle_combat.png/revision/latest?cb=20240925014842",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -8050,6 +10196,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/492141",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Maxwell",
       "date": "2026-11-22"
     }
   },
@@ -8084,8 +10231,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/fe/Miranda_FB.png/revision/latest?cb=20221228072851",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/7384324/514ce0d4b3260deedaad03e956a8c2ae.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/88/Miranda_cover_idle.png/revision/latest?cb=20240926035849",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/f0/Miranda_aim_idle_combat.png/revision/latest?cb=20240926035846",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -8098,6 +10257,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/492144",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Miranda",
       "date": "2026-11-22"
     }
   },
@@ -8132,8 +10292,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/f0/Milk_FB.png/revision/latest?cb=20230404083555",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/7384302/5ee3fda78f7fd1621dda283291dfcb61.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/6/69/Milk_cover_idle.png/revision/latest?cb=20240927032406",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/85/Milk_aim_idle_combat.png/revision/latest?cb=20240927032403",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -8146,6 +10318,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/492145",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Milk",
       "date": "2026-11-22"
     }
   },
@@ -8180,8 +10353,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/5/59/Mary_FB.png/revision/latest?cb=20221228095137",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/7384327/9f18f9aadee8a657c738829546c153c0.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/89/Mary_cover_idle.png/revision/latest?cb=20240925040340",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/4/44/Mary_aim_idle_combat.png/revision/latest?cb=20240925040343",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -8194,6 +10379,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/492146",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Mary",
       "date": "2026-11-22"
     }
   },
@@ -8228,8 +10414,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/c/c9/Maiden_FB.png/revision/latest?cb=20230404083241",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/7384322/4d948e3d959b4e1f562c42cbca51e593.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/a/a8/Maiden_cover_idle.png/revision/latest?cb=20240925153938",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/7/73/Maiden_aim_idle_combat.png/revision/latest?cb=20240925153939",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -8248,6 +10446,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/492147",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Maiden",
       "date": "2026-11-22"
     }
   },
@@ -8282,8 +10481,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/9/94/Yan_FB.png/revision/latest?cb=20230617131240",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/7384307/c2f162c07aaf7e9c5cf01785bb886dd7.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/c/cc/Yan_cover_idle.png/revision/latest?cb=20240925190930",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/5/58/Yan_aim_idle_combat.png/revision/latest?cb=20240925190927",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -8296,6 +10507,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/492148",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Yan",
       "date": "2026-11-22"
     }
   },
@@ -8330,8 +10542,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/1/16/Yuni_FB.png/revision/latest?cb=20230414111601",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/7384306/ac00e6312de2a0a0b9e8c8cba4f9ddac.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/c/c3/Yuni_cover_idle.png/revision/latest?cb=20240927033441",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/8f/Yuni_aim_idle_combat.png/revision/latest?cb=20240927033438",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -8344,6 +10568,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/492149",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Yuni",
       "date": "2026-11-22"
     }
   },
@@ -8378,14 +10603,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/f6/Yulha_FB.png/revision/latest?cb=20230111014433",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/7384298/a39b2843cb345f81894fbbb7def06116.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/5/5b/Yulha_cover_idle.png/revision/latest?cb=20240927020518",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/8c/Yulha_aim_idle_combat.png/revision/latest?cb=20240927020519",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/492150",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Yulha",
       "date": "2026-11-22"
     }
   },
@@ -8420,14 +10658,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/b/bc/Rapunzel_FB.png/revision/latest?cb=20230713182843",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/7384296/02d10079a9dff4ff34147919bb5ac1d9.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/2/22/Rapunzel_cover_idle.png/revision/latest?cb=20240927034053",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/7/79/Rapunzel_aim_idle_combat.png/revision/latest?cb=20240927034052",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/492152",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Rapunzel",
       "date": "2026-11-22"
     }
   },
@@ -8462,8 +10713,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/1/1f/Liter_FB.png/revision/latest?cb=20230128054652",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/7384321/04f62158201e0c242d34cee6d8bf6cee.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/a/a0/Liter_cover_idle.png/revision/latest?cb=20240927025710",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/e/ef/Liter_aim_idle_combat.png/revision/latest?cb=20240927025714",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -8482,6 +10745,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/492153",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Liter",
       "date": "2026-11-22"
     }
   },
@@ -8516,14 +10780,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/e/e3/Ludmilla_FB.png/revision/latest?cb=20221227111719",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/7384299/dedf9cc5ac9f34e2c413eb5e0f5b542e.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/3/3c/Ludmilla_cover_idle.png/revision/latest?cb=20230825010417",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/9/94/Ludmilla_aim_idle_combat.png/revision/latest?cb=20230825010416",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/492154",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Ludmilla",
       "date": "2026-11-22"
     }
   },
@@ -8558,8 +10835,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/0/03/Rupee_FB.png/revision/latest?cb=20240812090233",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/7384294/e3a2f6a885d84aaddab7bf078c4df37b.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/1/15/Rupee_cover_idle.png/revision/latest?cb=20240924233438",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/9/9f/Rupee_aim_idle_combat.png/revision/latest?cb=20240924233437",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -8572,6 +10861,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/492155",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Rupee",
       "date": "2026-11-22"
     }
   },
@@ -8606,8 +10896,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/4/41/Scarlet_FB.png/revision/latest?cb=20231125113910",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/7384310/3564727797e92bf4093b84ed06d180ba.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/0/09/Scarlet_cover_idle.png/revision/latest?cb=20240925002048",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/1/12/Scarlet_aim_idle_combat.png/revision/latest?cb=20240925002047",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -8620,6 +10922,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/492156",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Scarlet",
       "date": "2026-11-22"
     }
   },
@@ -8654,14 +10957,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/ff/Aigis_FB.png/revision/latest?cb=20260826105605",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/12865962/091b29a5659bc2a8f8d0daa95b8d4265.webp/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/a/a9/Aigis_cover_idle.png/revision/latest?cb=20260829104211",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/7/74/Aigis_aim_idle_combat.png/revision/latest?cb=20260829104220",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/805935",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Aigis",
       "date": "2026-11-22"
     }
   },
@@ -8696,14 +11012,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/d/df/Kurumi_FB.png/revision/latest?cb=20260212123133",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/12305007/f38a3dbbbdffc3d27ee08b541da9b71c.webp/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/fa/Kurumi_cover_idle.png/revision/latest?cb=20260212124655",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/e/ea/Kurumi_aim_idle_combat.png/revision/latest?cb=20260212124648",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/761459",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Kurumi",
       "date": "2026-11-22"
     }
   },
@@ -8738,14 +11067,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
+        "label": "立ち絵",
         "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/b/b0/Claire_Redfield_FB.png/revision/latest?cb=20250924133413",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/80/Claire_Redfield_cover_idle.png/revision/latest?cb=20250924133124",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/3/3c/Claire_Redfield_aim_idle_combat.png/revision/latest?cb=20250924133126",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/722360",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Claire_Redfield",
       "date": "2026-11-22"
     }
   },
@@ -8780,14 +11122,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/1/1d/Lily_FB.png/revision/latest?cb=20250612151142",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/11459167/57ec1cc9b37085dcf1cb37e6c23bd3f5.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/2/23/Lily_cover_idle.png/revision/latest?cb=20250612150737",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/f4/Lily_aim_idle_combat.png/revision/latest?cb=20250612150736",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/695643",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Lily",
       "date": "2026-11-22"
     }
   },
@@ -8822,14 +11177,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/3/3c/Sakura_Suzuhara_FB.png/revision/latest?cb=20250220153549",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/11059539/2bdf7f752ad712f520820aa43e5874f0.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/a/ad/Sakura_Suzuhara_cover_idle.png/revision/latest?cb=20250220153047",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/2/2b/Sakura_Suzuhara_aim_idle_combat.png/revision/latest?cb=20250220153045",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/668853",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Sakura_Suzuhara",
       "date": "2026-11-22"
     }
   },
@@ -8864,14 +11232,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/e/e4/Misato_Katsuragi_FB.png/revision/latest?cb=20240822022142",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/10418301/f9b85f2bc1b89d61a606216a311ab4d9.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/0/09/Misato_Katsuragi_cover_idle.png/revision/latest?cb=20240925185738",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/a/a3/Misato_Katsuragi_aim_idle_combat.png/revision/latest?cb=20240925185737",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/634791",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Misato_Katsuragi",
       "date": "2026-11-22"
     }
   },
@@ -8906,14 +11287,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/4/46/Ram_FB.png/revision/latest?cb=20240322022346",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/9758759/f4bd51ab1e6462cbf49c5191fd9d9522.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/c/c0/Ram_cover_idle.png/revision/latest?cb=20240926021747",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/9/93/Ram_aim_idle_combat.png/revision/latest?cb=20240926021748",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/599413",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Ram",
       "date": "2026-11-22"
     }
   },
@@ -8948,14 +11342,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/3/32/Pascal_FB.png/revision/latest?cb=20230905195318",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/8589338/ece0f4fbd4026593e37f95c90e4a6d4e.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/1/18/Pascal_cover_idle.png/revision/latest?cb=20240925145343",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/f5/Pascal_aim_idle_combat.png/revision/latest?cb=20240925145344",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/548041",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Pascal",
       "date": "2026-11-22"
     }
   },
@@ -8990,8 +11397,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/a/ae/Anchor_FB.png/revision/latest?cb=20230825221622",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/8462963/7df638442061df84b1341dd05ca41568.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/3/31/Anchor_cover_idle.png/revision/latest?cb=20240926011753",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/a/a0/Anchor_aim_idle_combat.png/revision/latest?cb=20240926011750",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -9004,6 +11423,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/543440",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Anchor",
       "date": "2026-11-22"
     }
   },
@@ -9038,14 +11458,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/88/Himeno_FB.png/revision/latest?cb=20230311060001",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/7769019/ab7fd7462b054a84fc3f3d4d46a8ea2f.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/0/02/Himeno_cover_idle.png/revision/latest?cb=20240925001102",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/87/Himeno_aim_idle_combat.png/revision/latest?cb=20240925001101",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/512661",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Himeno",
       "date": "2026-11-22"
     }
   },
@@ -9080,14 +11513,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/f3/Neve_FB.png/revision/latest?cb=20230316041753",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/7500356/36a6b12fd65e10121c4025f5896b9072.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/4/4a/Neve_cover_idle.png/revision/latest?cb=20240927043259",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/d/d7/Neve_aim_idle_combat.png/revision/latest?cb=20240927043258",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/500854",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Neve",
       "date": "2026-11-22"
     }
   },
@@ -9122,14 +11568,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
+        "label": "立ち絵",
         "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/d/d8/N102_FB.png/revision/latest?cb=20230618104822",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/3/31/N102_cover_idle.png/revision/latest?cb=20240926034610",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/b/b6/N102_aim_idle_combat.png/revision/latest?cb=20240926034608",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/492095",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/N102",
       "date": "2026-11-22"
     }
   },
@@ -9164,14 +11623,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
+        "label": "立ち絵",
         "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/3/33/Anis_FB.png/revision/latest?cb=20230316053906",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/f9/Anis_cover_idle.png/revision/latest?cb=20240925155544",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/4/44/Anis_aim_idle_combat.png/revision/latest?cb=20240925155545",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/492097",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Anis",
       "date": "2026-11-22"
     }
   },
@@ -9206,14 +11678,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
+        "label": "立ち絵",
         "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/2/2c/Ether_FB.png/revision/latest?cb=20221210052434",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/fa/Ether_cover_idle.png/revision/latest?cb=20240925192604",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/7/7e/Ether_aim_idle_combat.png/revision/latest?cb=20240925192606",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/492102",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Ether",
       "date": "2026-11-22"
     }
   },
@@ -9248,14 +11733,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
+        "label": "立ち絵",
         "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/b/bf/Delta_FB.png/revision/latest?cb=20261119152328",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/1/1b/Delta_cover_idle.png/revision/latest?cb=20261119152413",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/9/94/Delta_aim_idle_combat.png/revision/latest?cb=20261119152430",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/492120",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Delta",
       "date": "2026-11-22"
     }
   },
@@ -9290,8 +11788,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
+        "label": "立ち絵",
         "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/c/c9/Neon_FB.png/revision/latest?cb=20230404084241",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/b/bc/Neon_cover_idle.png/revision/latest?cb=20240925191908",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/d/d1/Neon_aim_idle_combat.png/revision/latest?cb=20240925191905",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -9304,6 +11814,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/492123",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Neon",
       "date": "2026-11-22"
     }
   },
@@ -9338,14 +11849,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
+        "label": "立ち絵",
         "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/4/4d/Belorta_FB.png/revision/latest?cb=20221222141837",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/1/1e/Belorta_cover_idle.png/revision/latest?cb=20240926015216",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/6/68/Belorta_aim_idle_combat.png/revision/latest?cb=20240926015215",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/492138",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Belorta",
       "date": "2026-11-22"
     }
   },
@@ -9380,14 +11904,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
+        "label": "立ち絵",
         "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/9/93/Mica_FB.png/revision/latest?cb=20230311074247",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/c/c9/Mica_cover_idle.png/revision/latest?cb=20240927024452",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/2/27/Mica_aim_idle_combat.png/revision/latest?cb=20240927024451",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/492142",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Mica",
       "date": "2026-11-22"
     }
   },
@@ -9422,14 +11959,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
+        "label": "立ち絵",
         "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/87/Mihara_FB.png/revision/latest?cb=20221210052334",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/0/01/Mihara_cover_idle.png/revision/latest?cb=20240925012420",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/3/3f/Mihara_aim_idle_combat.png/revision/latest?cb=20240925012419",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/492143",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Mihara",
       "date": "2026-11-22"
     }
   },
@@ -9464,8 +12014,20 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
+        "label": "立ち絵",
         "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/1/1a/Rapi_FB.png/revision/latest?cb=20230402081008",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/a/af/Rapi_cover_idle.png/revision/latest?cb=20240925034128",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/5/50/Rapi_aim_idle_combat.png/revision/latest?cb=20240925034127",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       },
@@ -9484,6 +12046,7 @@ const NIKKE_DATA = [
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/492151",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Rapi",
       "date": "2026-11-22"
     }
   },
@@ -9518,14 +12081,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/c/c3/Syuen_FB.png/revision/latest?cb=20260907234307",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/9825666/e3a199c1798ff4c324ed5a2c2b251b4f.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/7/70/Syuen_cover_idle.png/revision/latest?cb=20240927050450",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/e/e0/Syuen_aim_idle_combat.png/revision/latest?cb=20240927050449",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/602441",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Syuen",
       "date": "2026-11-22"
     }
   },
@@ -9560,14 +12136,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
-        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/c/c9/Shifty_FB.png/revision/latest?cb=20260908035146",
+        "label": "立ち絵",
+        "url": "https://img.game8.jp/7877750/b5a2df513e739a4fb5a4400f639af8f0.png/show",
+        "source": "Game8",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/8/83/Shifty_cover_idle.png/revision/latest?cb=20240927045916",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/9/9d/Shifty_aim_idle_combat.png/revision/latest?cb=20240927045917",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/520856",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Shifty",
       "date": "2026-11-22"
     }
   },
@@ -9602,14 +12191,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
+        "label": "立ち絵",
         "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/e/e2/IDoll_Ocean_FB.png/revision/latest?cb=20221227102621",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/0/07/IDoll_Ocean_cover_idle.png/revision/latest?cb=20240925131509",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/b/bd/IDoll_Ocean_aim_idle_combat.png/revision/latest?cb=20240925131508",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/492106",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/IDoll_Ocean",
       "date": "2026-11-22"
     }
   },
@@ -9644,14 +12246,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
+        "label": "立ち絵",
         "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/1/1b/IDoll_Sun_FB.png/revision/latest?cb=20221227102555",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/b/b3/IDoll_Sun_cover_idle.png/revision/latest?cb=20240925130235",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/a/a8/IDoll_Sun_aim_idle_combat.png/revision/latest?cb=20240925130236",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/492109",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/IDoll_Sun",
       "date": "2026-11-22"
     }
   },
@@ -9686,14 +12301,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
+        "label": "立ち絵",
         "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/a/a7/Soldier_EG_FB.png/revision/latest?cb=20221227145536",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/fa/Soldier_EG_cover_idle.png/revision/latest?cb=20240925182509",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/b/b3/Soldier_EG_aim_idle_combat.png/revision/latest?cb=20240925182508",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/492116",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Soldier_EG",
       "date": "2026-11-22"
     }
   },
@@ -9728,14 +12356,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
+        "label": "立ち絵",
         "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/0/0b/Soldier_FA_FB.png/revision/latest?cb=20221227150738",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/9/92/Soldier_FA_cover_idle.png/revision/latest?cb=20240925035418",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/0/0f/Soldier_FA_aim_idle_combat.png/revision/latest?cb=20240925035417",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/492117",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Soldier_FA",
       "date": "2026-11-22"
     }
   },
@@ -9770,14 +12411,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
+        "label": "立ち絵",
         "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/1/19/Soldier_OW_FB.png/revision/latest?cb=20221227150758",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/2/27/Soldier_OW_cover_idle.png/revision/latest?cb=20240925152546",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/6/66/Soldier_OW_aim_idle_combat.png/revision/latest?cb=20240925152547",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/492118",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Soldier_OW",
       "date": "2026-11-22"
     }
   },
@@ -9812,14 +12466,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
+        "label": "立ち絵",
         "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/1/1b/IDoll_Flower_FB.png/revision/latest?cb=20221227105314",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/3/3e/IDoll_Flower_cover_idle.png/revision/latest?cb=20240924024209",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/b/b9/IDoll_Flower_aim_idle_combat.png/revision/latest?cb=20240924024241",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/492129",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/IDoll_Flower",
       "date": "2026-11-22"
     }
   },
@@ -9854,14 +12521,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
+        "label": "立ち絵",
         "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/b/b3/Product_08_FB.png/revision/latest?cb=20221222144217",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/e/ed/Product_08_cover_idle.png/revision/latest?cb=20240927040728",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/5/5f/Product_08_aim_idle_combat.png/revision/latest?cb=20240927040729",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/492133",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Product_08",
       "date": "2026-11-22"
     }
   },
@@ -9896,14 +12576,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
+        "label": "立ち絵",
         "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/d/df/Product_12_FB.png/revision/latest?cb=20221222144125",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/b/b1/Product_12_cover_idle.png/revision/latest?cb=20240925150518",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/f/f7/Product_12_aim_idle_combat.png/revision/latest?cb=20240925150519",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/492134",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Product_12",
       "date": "2026-11-22"
     }
   },
@@ -9938,14 +12631,27 @@ const NIKKE_DATA = [
     ],
     "images": [
       {
-        "label": "通常",
+        "label": "立ち絵",
         "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/9/97/Product_23_FB.png/revision/latest?cb=20221222144107",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃待機",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/0/08/Product_23_cover_idle.png/revision/latest?cb=20240925132110",
+        "source": "NIKKE Wiki (Fandom)",
+        "credit": "SHIFT UP"
+      },
+      {
+        "label": "射撃中",
+        "url": "https://static.wikia.nocookie.net/nikke-goddess-of-victory-international/images/a/ac/Product_23_aim_idle_combat.png/revision/latest?cb=20240925132111",
         "source": "NIKKE Wiki (Fandom)",
         "credit": "SHIFT UP"
       }
     ],
     "sourceInfo": {
       "url": "https://game8.jp/nikke/492135",
+      "fandomUrl": "https://nikke-goddess-of-victory-international.fandom.com/wiki/Product_23",
       "date": "2026-11-22"
     }
   }
